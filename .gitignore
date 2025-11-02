@@ -1,0 +1,34 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+data/
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# Docker
+*.log
+*.pid
+*.db
+*.sqlite3
+*.tar
+*.gz
+*.tgz
+*.bak
+*.tmp
+*.swp
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

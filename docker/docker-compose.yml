@@ -1,0 +1,21 @@
+services:
+validador:
+build: ..
+ports:
+- "8501:8501" # Streamlit UI
+- "8000:8000" # FastAPI (opcional)
+volumes:
+- ../data:/app/data
+- ../.chroma_store:/app/.chroma_store
+environment:
+- CHAT_THEME=${CHAT_THEME:-imessage}
+- CBS_CALCULADORA_BASE=${CBS_CALCULADORA_BASE}
+- CBS_TIMEOUT=${CBS_TIMEOUT}
+- CHROMA_DIR=${CHROMA_DIR}
+- EMBEDDINGS_MODEL=${EMBEDDINGS_MODEL}
+- DB_URL=${DB_URL:-sqlite:///./data/validador.db}
+- EMAIL_FROM=${EMAIL_FROM}
+- SMTP_HOST=${SMTP_HOST}
+- SMTP_PORT=${SMTP_PORT}
+- SMTP_USER=${SMTP_USER}
+- SMTP_PASS=${SMTP_PASS}
