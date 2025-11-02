@@ -1,0 +1,44 @@
+uf_origem,uf_destino,aliq_origem,aliq_destino,aliq_inter,difal,partilha_origem,partilha_destino,observacao
+SP,RJ,18.0,20.0,12.0,8.0,0.0,100.0,Sul/Sudeste - DIFAL total para destino
+SP,MG,18.0,18.0,12.0,6.0,0.0,100.0,Mesma alíquota - DIFAL menor
+SP,ES,18.0,17.0,12.0,5.0,0.0,100.0,ES tem alíquota menor
+SP,PR,18.0,18.0,12.0,6.0,0.0,100.0,Sul/Sudeste
+SP,SC,18.0,17.0,12.0,5.0,0.0,100.0,Sul/Sudeste
+SP,RS,18.0,18.0,12.0,6.0,0.0,100.0,Sul/Sudeste
+SP,BA,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste - DIFAL maior
+SP,CE,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste
+SP,PE,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste
+SP,AL,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste
+SP,SE,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste
+SP,PB,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste
+SP,RN,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste
+SP,PI,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste
+SP,MA,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Nordeste
+SP,GO,18.0,17.0,7.0,10.0,0.0,100.0,Sudeste para Centro-Oeste
+SP,MT,18.0,17.0,7.0,10.0,0.0,100.0,Sudeste para Centro-Oeste
+SP,MS,18.0,17.0,7.0,10.0,0.0,100.0,Sudeste para Centro-Oeste
+SP,DF,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para DF
+SP,AC,18.0,17.0,7.0,10.0,0.0,100.0,Sudeste para Norte
+SP,AP,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Norte
+SP,AM,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Norte
+SP,PA,18.0,17.0,7.0,10.0,0.0,100.0,Sudeste para Norte
+SP,RO,18.0,17.5,7.0,10.5,0.0,100.0,Sudeste para Norte
+SP,RR,18.0,17.0,7.0,10.0,0.0,100.0,Sudeste para Norte
+SP,TO,18.0,18.0,7.0,11.0,0.0,100.0,Sudeste para Norte
+RJ,SP,20.0,18.0,12.0,6.0,0.0,100.0,RJ para SP - DIFAL menor (origem maior)
+RJ,MG,20.0,18.0,12.0,6.0,0.0,100.0,RJ para MG
+RJ,BA,20.0,18.0,7.0,11.0,0.0,100.0,RJ para Nordeste
+MG,SP,18.0,18.0,12.0,6.0,0.0,100.0,Operação entre SP e MG
+MG,RJ,18.0,20.0,12.0,8.0,0.0,100.0,MG para RJ
+MG,BA,18.0,18.0,7.0,11.0,0.0,100.0,MG para Nordeste
+PR,SP,18.0,18.0,12.0,6.0,0.0,100.0,Sul para Sudeste
+PR,SC,18.0,17.0,12.0,5.0,0.0,100.0,Sul para Sul
+RS,SP,18.0,18.0,12.0,6.0,0.0,100.0,Sul para Sudeste
+RS,SC,18.0,17.0,12.0,5.0,0.0,100.0,Sul para Sul
+BA,SP,18.0,18.0,7.0,11.0,0.0,100.0,Nordeste para Sudeste
+BA,RJ,18.0,20.0,7.0,13.0,0.0,100.0,Nordeste para RJ (maior DIFAL)
+BA,CE,18.0,18.0,12.0,6.0,0.0,100.0,Dentro do Nordeste
+PE,SP,18.0,18.0,7.0,11.0,0.0,100.0,Nordeste para Sudeste
+CE,SP,18.0,18.0,7.0,11.0,0.0,100.0,Nordeste para Sudeste
+AM,SP,18.0,18.0,7.0,11.0,0.0,100.0,Norte (ZFM) para Sudeste
+PA,SP,17.0,18.0,7.0,11.0,0.0,100.0,Norte para Sudeste

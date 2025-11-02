@@ -1,0 +1,11 @@
+tributo,aliquota,base_calculo,observacao
+PIS,1.65,valor_produto,Regime Cumulativo
+COFINS,7.6,valor_produto,Regime Cumulativo
+PIS_NC,0.65,valor_produto,Regime Não-Cumulativo (65% menor)
+COFINS_NC,3.0,valor_produto,Regime Não-Cumulativo (60% menor)
+IPI,10.0,valor_produto,Alíquota média (varia por NCM)
+IRPJ,15.0,lucro_presumido,Lucro Presumido 32% + IRPJ 15%
+IRPJ_ADIC,10.0,lucro_excedente,Adicional sobre lucro > R$ 20k/mês
+CSLL,9.0,lucro_presumido,Lucro Presumido 32% + CSLL 9%
+INSS_EMPRESA,20.0,folha_pagamento,Cota Patronal
+FGTS,8.0,folha_pagamento,Fundo de Garantia

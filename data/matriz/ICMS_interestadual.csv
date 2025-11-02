@@ -1,0 +1,27 @@
+uf_origem,uf_destino,aliquota,base_calculo,observacao
+SP,RJ,12.0,valor_produto,Região Sul/Sudeste
+SP,MG,12.0,valor_produto,Região Sul/Sudeste
+SP,ES,12.0,valor_produto,Região Sul/Sudeste
+SP,PR,12.0,valor_produto,Região Sul/Sudeste
+SP,SC,12.0,valor_produto,Região Sul/Sudeste
+SP,RS,12.0,valor_produto,Região Sul/Sudeste
+SP,BA,7.0,valor_produto,Sudeste para Nordeste
+SP,CE,7.0,valor_produto,Sudeste para Nordeste
+SP,PE,7.0,valor_produto,Sudeste para Nordeste
+SP,AL,7.0,valor_produto,Sudeste para Nordeste
+SP,MA,7.0,valor_produto,Sudeste para Nordeste
+SP,PB,7.0,valor_produto,Sudeste para Nordeste
+SP,PI,7.0,valor_produto,Sudeste para Nordeste
+SP,RN,7.0,valor_produto,Sudeste para Nordeste
+SP,SE,7.0,valor_produto,Sudeste para Nordeste
+SP,GO,7.0,valor_produto,Sudeste para Centro-Oeste
+SP,MT,7.0,valor_produto,Sudeste para Centro-Oeste
+SP,MS,7.0,valor_produto,Sudeste para Centro-Oeste
+SP,DF,7.0,valor_produto,Sudeste para Centro-Oeste
+SP,AC,7.0,valor_produto,Sudeste para Norte
+SP,AP,7.0,valor_produto,Sudeste para Norte
+SP,AM,7.0,valor_produto,Sudeste para Norte
+SP,PA,7.0,valor_produto,Sudeste para Norte
+SP,RO,7.0,valor_produto,Sudeste para Norte
+SP,RR,7.0,valor_produto,Sudeste para Norte
+SP,TO,7.0,valor_produto,Sudeste para Norte

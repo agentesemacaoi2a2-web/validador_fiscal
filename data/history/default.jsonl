@@ -1,0 +1,5 @@
+{"ts": "2025-10-22T18:36:38.474535", "role": "user", "content": "quantas notas fiscais tem erros ultimamente?"}
+{"ts": "2025-10-22T18:37:34.790923", "role": "assistant", "content": "Não há relatório ativo. Valide uma NF na aba 'Validador de NF' e pergunte novamente.\n\nContexto RAG: (sem base RAG)"}
+{"ts": "2025-10-24T19:29:58.736071", "role": "user", "content": "oi"}
+{"ts": "2025-10-24T19:29:58.736071", "role": "assistant", "content": "Não há relatório ativo. Valide uma NF na aba 'Validador de NF' e pergunte novamente.\n\n(⚠️ RAG inativo — gere o relatório para habilitar contexto baseado em vetor.)"}
+{"ts": "2025-10-24T19:30:11.091552", "role": "system", "content": "reset"}

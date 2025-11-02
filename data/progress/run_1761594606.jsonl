@@ -1,0 +1,10 @@
+{"ts": "2025-10-27T19:50:06.546721", "agente": "Leitor", "status": "start", "detail": "Descobrindo fonte"}
+{"ts": "2025-10-27T19:50:06.546721", "agente": "Leitor", "status": "ok", "detail": ""}
+{"ts": "2025-10-27T19:50:06.560577", "agente": "Matriz", "status": "start", "detail": "Normalizando CFOP/NCM/CST"}
+{"ts": "2025-10-27T19:50:06.560577", "agente": "Matriz", "status": "ok", "detail": ""}
+{"ts": "2025-10-27T19:50:06.560577", "agente": "Legados", "status": "start", "detail": "Calculando impostos legados"}
+{"ts": "2025-10-27T19:50:06.560577", "agente": "Legados", "status": "ok", "detail": ""}
+{"ts": "2025-10-27T19:50:06.603234", "agente": "CBS/IBS/IS", "status": "start", "detail": "Consultando API oficial"}
+{"ts": "2025-10-27T19:50:06.604234", "agente": "CBS/IBS/IS", "status": "ok", "detail": ""}
+{"ts": "2025-10-27T19:50:06.606232", "agente": "Consolidador", "status": "start", "detail": "Executando pipeline"}
+{"ts": "2025-10-27T19:50:06.608231", "agente": "Supervisor", "status": "error", "detail": "Falha geral no run_core"}

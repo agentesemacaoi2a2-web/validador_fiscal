@@ -1,0 +1,1977 @@
+cod_ibge,municipio,uf,subitem_lc116,descricao_servico,aliquota_iss,lei_municipal,data_atualizacao
+3550308,São Paulo,SP,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,1.02,Programação,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,1.03,Processamento de dados,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,1.04,Elaboração de programas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,1.05,Licenciamento de programas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,1.06,Assessoria TI,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,1.07,Suporte técnico TI,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,1.08,Planejamento TI,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,1.09,Configuração hardware/software,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,2.01,Serviços de pesquisas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,4.01,Medicina e biomedicina,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,4.02,Análises clínicas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,4.03,Hospitais,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,4.06,Enfermagem,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,4.11,Odontologia,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,4.14,Psicanálise,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,4.15,Psicologia,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,4.23,Planos de saúde,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,5.01,Medicina veterinária,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,6.01,Barbearia e cabeleireiros,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,6.02,Esteticistas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,6.04,Ginástica e dança,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,6.05,Academias,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.01,Engenharia e arquitetura,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.02,Execução de projetos engenharia,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.03,Elaboração de plantas,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.04,Demolição,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.05,Reparação de edifícios,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.10,Limpeza e manutenção,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.12,Paisagismo,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.16,Florestamento,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.19,Acompanhamento de obras,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,7.20,Sondagens e perfurações,2.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,8.01,Ensino regular,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,8.02,Instrução e treinamento,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,9.01,Hospedagem hotéis,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,9.02,Agenciamento viagens,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,9.03,Guias de turismo,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,10.01,Agenciamento publicidade,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,10.02,Propaganda,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,10.04,Marketing,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,10.09,Planejamento de campanhas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,10.10,Produção publicitária,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,11.01,Organização de festas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,11.02,Bufê,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,11.03,Fornecimento de música,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,11.04,Parques diversão,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,12.01,Espetáculos teatrais,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,12.02,Exibições cinematográficas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,12.13,Produção espetáculos,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,12.16,Recreação e animação,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,13.02,Administração de fundos,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,13.03,Administração consórcios,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,13.04,Administração cartões,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,13.05,Arrendamento mercantil,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.01,Consultoria,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.03,Atuária,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.04,Contabilidade,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.05,Traduções,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.06,Avaliações,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.07,Perícias,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.09,Recrutamento,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.10,Fornecimento mão-de-obra,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,14.13,Leilão,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,15.01,Administração imóveis,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,15.02,Corretagem imóveis,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,15.08,Despachantes,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,15.09,Propriedade industrial,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,15.14,Reprografia,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,15.16,Digitação,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,16.01,Transporte municipal,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,17.01,Consultoria jurídica,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,17.02,Atividades jurídicas,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,17.05,Arbitragem,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,17.14,Advocacia,5.0,Lei 13701/2003,2025-01-15
+3550308,São Paulo,SP,17.19,Serviços cartorários,5.0,Lei 13701/2003,2025-01-15
+3304557,Rio de Janeiro,RJ,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,1.02,Programação,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,1.03,Processamento de dados,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,1.04,Elaboração de programas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,1.05,Licenciamento de programas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,1.06,Assessoria TI,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,1.07,Suporte técnico TI,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,1.08,Planejamento TI,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,1.09,Configuração hardware/software,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,2.01,Serviços de pesquisas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,4.01,Medicina e biomedicina,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,4.02,Análises clínicas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,4.03,Hospitais,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,4.06,Enfermagem,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,4.11,Odontologia,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,4.14,Psicanálise,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,4.15,Psicologia,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,4.23,Planos de saúde,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,5.01,Medicina veterinária,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,6.01,Barbearia e cabeleireiros,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,6.02,Esteticistas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,6.04,Ginástica e dança,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,6.05,Academias,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.01,Engenharia e arquitetura,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.02,Execução de projetos engenharia,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.03,Elaboração de plantas,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.04,Demolição,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.05,Reparação de edifícios,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.10,Limpeza e manutenção,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.12,Paisagismo,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.16,Florestamento,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.19,Acompanhamento de obras,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,7.20,Sondagens e perfurações,3.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,8.01,Ensino regular,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,8.02,Instrução e treinamento,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,9.01,Hospedagem hotéis,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,9.02,Agenciamento viagens,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,9.03,Guias de turismo,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,10.01,Agenciamento publicidade,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,10.02,Propaganda,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,10.04,Marketing,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,10.09,Planejamento de campanhas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,10.10,Produção publicitária,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,11.01,Organização de festas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,11.02,Bufê,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,11.03,Fornecimento de música,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,11.04,Parques diversão,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,12.01,Espetáculos teatrais,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,12.02,Exibições cinematográficas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,12.13,Produção espetáculos,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,12.16,Recreação e animação,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,13.02,Administração de fundos,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,13.03,Administração consórcios,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,13.04,Administração cartões,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,13.05,Arrendamento mercantil,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.01,Consultoria,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.03,Atuária,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.04,Contabilidade,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.05,Traduções,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.06,Avaliações,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.07,Perícias,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.09,Recrutamento,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.10,Fornecimento mão-de-obra,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,14.13,Leilão,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,15.01,Administração imóveis,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,15.02,Corretagem imóveis,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,15.08,Despachantes,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,15.09,Propriedade industrial,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,15.14,Reprografia,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,15.16,Digitação,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,16.01,Transporte municipal,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,17.01,Consultoria jurídica,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,17.02,Atividades jurídicas,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,17.05,Arbitragem,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,17.14,Advocacia,5.0,Lei 691/1984,2025-01-15
+3304557,Rio de Janeiro,RJ,17.19,Serviços cartorários,5.0,Lei 691/1984,2025-01-15
+5300108,Brasília,DF,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,1.02,Programação,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,1.03,Processamento de dados,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,1.04,Elaboração de programas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,1.05,Licenciamento de programas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,1.06,Assessoria TI,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,1.07,Suporte técnico TI,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,1.08,Planejamento TI,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,1.09,Configuração hardware/software,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,2.01,Serviços de pesquisas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,4.01,Medicina e biomedicina,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,4.02,Análises clínicas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,4.03,Hospitais,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,4.06,Enfermagem,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,4.11,Odontologia,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,4.14,Psicanálise,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,4.15,Psicologia,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,4.23,Planos de saúde,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,5.01,Medicina veterinária,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,6.01,Barbearia e cabeleireiros,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,6.02,Esteticistas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,6.04,Ginástica e dança,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,6.05,Academias,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.01,Engenharia e arquitetura,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.02,Execução de projetos engenharia,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.03,Elaboração de plantas,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.04,Demolição,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.05,Reparação de edifícios,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.10,Limpeza e manutenção,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.12,Paisagismo,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.16,Florestamento,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.19,Acompanhamento de obras,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,7.20,Sondagens e perfurações,2.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,8.01,Ensino regular,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,8.02,Instrução e treinamento,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,9.01,Hospedagem hotéis,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,9.02,Agenciamento viagens,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,9.03,Guias de turismo,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,10.01,Agenciamento publicidade,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,10.02,Propaganda,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,10.04,Marketing,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,10.09,Planejamento de campanhas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,10.10,Produção publicitária,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,11.01,Organização de festas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,11.02,Bufê,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,11.03,Fornecimento de música,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,11.04,Parques diversão,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,12.01,Espetáculos teatrais,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,12.02,Exibições cinematográficas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,12.13,Produção espetáculos,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,12.16,Recreação e animação,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,13.02,Administração de fundos,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,13.03,Administração consórcios,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,13.04,Administração cartões,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,13.05,Arrendamento mercantil,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.01,Consultoria,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.03,Atuária,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.04,Contabilidade,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.05,Traduções,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.06,Avaliações,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.07,Perícias,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.09,Recrutamento,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.10,Fornecimento mão-de-obra,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,14.13,Leilão,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,15.01,Administração imóveis,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,15.02,Corretagem imóveis,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,15.08,Despachantes,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,15.09,Propriedade industrial,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,15.14,Reprografia,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,15.16,Digitação,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,16.01,Transporte municipal,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,17.01,Consultoria jurídica,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,17.02,Atividades jurídicas,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,17.05,Arbitragem,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,17.14,Advocacia,5.0,Lei 5172/1966,2025-01-15
+5300108,Brasília,DF,17.19,Serviços cartorários,5.0,Lei 5172/1966,2025-01-15
+2927408,Salvador,BA,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,1.02,Programação,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,1.03,Processamento de dados,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,1.04,Elaboração de programas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,1.05,Licenciamento de programas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,1.06,Assessoria TI,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,1.07,Suporte técnico TI,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,1.08,Planejamento TI,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,1.09,Configuração hardware/software,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,2.01,Serviços de pesquisas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,4.01,Medicina e biomedicina,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,4.02,Análises clínicas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,4.03,Hospitais,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,4.06,Enfermagem,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,4.11,Odontologia,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,4.14,Psicanálise,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,4.15,Psicologia,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,4.23,Planos de saúde,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,5.01,Medicina veterinária,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,6.01,Barbearia e cabeleireiros,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,6.02,Esteticistas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,6.04,Ginástica e dança,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,6.05,Academias,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.01,Engenharia e arquitetura,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.02,Execução de projetos engenharia,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.03,Elaboração de plantas,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.04,Demolição,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.05,Reparação de edifícios,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.10,Limpeza e manutenção,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.12,Paisagismo,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.16,Florestamento,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.19,Acompanhamento de obras,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,7.20,Sondagens e perfurações,3.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,8.01,Ensino regular,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,8.02,Instrução e treinamento,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,9.01,Hospedagem hotéis,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,9.02,Agenciamento viagens,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,9.03,Guias de turismo,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,10.01,Agenciamento publicidade,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,10.02,Propaganda,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,10.04,Marketing,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,10.09,Planejamento de campanhas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,10.10,Produção publicitária,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,11.01,Organização de festas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,11.02,Bufê,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,11.03,Fornecimento de música,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,11.04,Parques diversão,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,12.01,Espetáculos teatrais,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,12.02,Exibições cinematográficas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,12.13,Produção espetáculos,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,12.16,Recreação e animação,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,13.02,Administração de fundos,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,13.03,Administração consórcios,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,13.04,Administração cartões,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,13.05,Arrendamento mercantil,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.01,Consultoria,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.03,Atuária,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.04,Contabilidade,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.05,Traduções,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.06,Avaliações,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.07,Perícias,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.09,Recrutamento,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.10,Fornecimento mão-de-obra,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,14.13,Leilão,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,15.01,Administração imóveis,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,15.02,Corretagem imóveis,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,15.08,Despachantes,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,15.09,Propriedade industrial,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,15.14,Reprografia,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,15.16,Digitação,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,16.01,Transporte municipal,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,17.01,Consultoria jurídica,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,17.02,Atividades jurídicas,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,17.05,Arbitragem,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,17.14,Advocacia,5.0,Lei 7186/2006,2025-01-15
+2927408,Salvador,BA,17.19,Serviços cartorários,5.0,Lei 7186/2006,2025-01-15
+2304400,Fortaleza,CE,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,1.02,Programação,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,1.03,Processamento de dados,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,1.04,Elaboração de programas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,1.05,Licenciamento de programas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,1.06,Assessoria TI,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,1.07,Suporte técnico TI,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,1.08,Planejamento TI,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,1.09,Configuração hardware/software,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,2.01,Serviços de pesquisas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,4.01,Medicina e biomedicina,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,4.02,Análises clínicas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,4.03,Hospitais,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,4.06,Enfermagem,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,4.11,Odontologia,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,4.14,Psicanálise,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,4.15,Psicologia,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,4.23,Planos de saúde,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,5.01,Medicina veterinária,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,6.01,Barbearia e cabeleireiros,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,6.02,Esteticistas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,6.04,Ginástica e dança,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,6.05,Academias,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.01,Engenharia e arquitetura,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.02,Execução de projetos engenharia,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.03,Elaboração de plantas,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.04,Demolição,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.05,Reparação de edifícios,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.10,Limpeza e manutenção,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.12,Paisagismo,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.16,Florestamento,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.19,Acompanhamento de obras,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,7.20,Sondagens e perfurações,2.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,8.01,Ensino regular,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,8.02,Instrução e treinamento,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,9.01,Hospedagem hotéis,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,9.02,Agenciamento viagens,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,9.03,Guias de turismo,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,10.01,Agenciamento publicidade,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,10.02,Propaganda,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,10.04,Marketing,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,10.09,Planejamento de campanhas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,10.10,Produção publicitária,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,11.01,Organização de festas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,11.02,Bufê,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,11.03,Fornecimento de música,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,11.04,Parques diversão,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,12.01,Espetáculos teatrais,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,12.02,Exibições cinematográficas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,12.13,Produção espetáculos,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,12.16,Recreação e animação,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,13.02,Administração de fundos,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,13.03,Administração consórcios,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,13.04,Administração cartões,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,13.05,Arrendamento mercantil,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.01,Consultoria,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.03,Atuária,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.04,Contabilidade,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.05,Traduções,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.06,Avaliações,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.07,Perícias,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.09,Recrutamento,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.10,Fornecimento mão-de-obra,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,14.13,Leilão,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,15.01,Administração imóveis,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,15.02,Corretagem imóveis,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,15.08,Despachantes,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,15.09,Propriedade industrial,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,15.14,Reprografia,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,15.16,Digitação,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,16.01,Transporte municipal,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,17.01,Consultoria jurídica,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,17.02,Atividades jurídicas,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,17.05,Arbitragem,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,17.14,Advocacia,5.0,Lei 9840/2011,2025-01-15
+2304400,Fortaleza,CE,17.19,Serviços cartorários,5.0,Lei 9840/2011,2025-01-15
+3106200,Belo Horizonte,MG,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,1.02,Programação,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,1.03,Processamento de dados,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,1.04,Elaboração de programas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,1.05,Licenciamento de programas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,1.06,Assessoria TI,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,1.07,Suporte técnico TI,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,1.08,Planejamento TI,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,1.09,Configuração hardware/software,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,2.01,Serviços de pesquisas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,4.01,Medicina e biomedicina,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,4.02,Análises clínicas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,4.03,Hospitais,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,4.06,Enfermagem,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,4.11,Odontologia,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,4.14,Psicanálise,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,4.15,Psicologia,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,4.23,Planos de saúde,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,5.01,Medicina veterinária,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,6.01,Barbearia e cabeleireiros,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,6.02,Esteticistas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,6.04,Ginástica e dança,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,6.05,Academias,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.01,Engenharia e arquitetura,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.02,Execução de projetos engenharia,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.03,Elaboração de plantas,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.04,Demolição,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.05,Reparação de edifícios,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.10,Limpeza e manutenção,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.12,Paisagismo,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.16,Florestamento,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.19,Acompanhamento de obras,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,7.20,Sondagens e perfurações,2.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,8.01,Ensino regular,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,8.02,Instrução e treinamento,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,9.01,Hospedagem hotéis,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,9.02,Agenciamento viagens,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,9.03,Guias de turismo,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,10.01,Agenciamento publicidade,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,10.02,Propaganda,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,10.04,Marketing,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,10.09,Planejamento de campanhas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,10.10,Produção publicitária,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,11.01,Organização de festas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,11.02,Bufê,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,11.03,Fornecimento de música,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,11.04,Parques diversão,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,12.01,Espetáculos teatrais,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,12.02,Exibições cinematográficas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,12.13,Produção espetáculos,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,12.16,Recreação e animação,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,13.02,Administração de fundos,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,13.03,Administração consórcios,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,13.04,Administração cartões,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,13.05,Arrendamento mercantil,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.01,Consultoria,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.03,Atuária,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.04,Contabilidade,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.05,Traduções,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.06,Avaliações,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.07,Perícias,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.09,Recrutamento,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.10,Fornecimento mão-de-obra,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,14.13,Leilão,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,15.01,Administração imóveis,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,15.02,Corretagem imóveis,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,15.08,Despachantes,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,15.09,Propriedade industrial,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,15.14,Reprografia,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,15.16,Digitação,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,16.01,Transporte municipal,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,17.01,Consultoria jurídica,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,17.02,Atividades jurídicas,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,17.05,Arbitragem,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,17.14,Advocacia,5.0,Lei 8725/2003,2025-01-15
+3106200,Belo Horizonte,MG,17.19,Serviços cartorários,5.0,Lei 8725/2003,2025-01-15
+1302603,Manaus,AM,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,1.02,Programação,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,1.03,Processamento de dados,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,1.04,Elaboração de programas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,1.05,Licenciamento de programas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,1.06,Assessoria TI,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,1.07,Suporte técnico TI,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,1.08,Planejamento TI,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,1.09,Configuração hardware/software,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,2.01,Serviços de pesquisas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,4.01,Medicina e biomedicina,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,4.02,Análises clínicas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,4.03,Hospitais,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,4.06,Enfermagem,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,4.11,Odontologia,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,4.14,Psicanálise,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,4.15,Psicologia,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,4.23,Planos de saúde,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,5.01,Medicina veterinária,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,6.01,Barbearia e cabeleireiros,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,6.02,Esteticistas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,6.04,Ginástica e dança,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,6.05,Academias,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.01,Engenharia e arquitetura,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.02,Execução de projetos engenharia,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.03,Elaboração de plantas,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.04,Demolição,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.05,Reparação de edifícios,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.10,Limpeza e manutenção,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.12,Paisagismo,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.16,Florestamento,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.19,Acompanhamento de obras,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,7.20,Sondagens e perfurações,2.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,8.01,Ensino regular,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,8.02,Instrução e treinamento,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,9.01,Hospedagem hotéis,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,9.02,Agenciamento viagens,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,9.03,Guias de turismo,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,10.01,Agenciamento publicidade,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,10.02,Propaganda,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,10.04,Marketing,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,10.09,Planejamento de campanhas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,10.10,Produção publicitária,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,11.01,Organização de festas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,11.02,Bufê,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,11.03,Fornecimento de música,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,11.04,Parques diversão,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,12.01,Espetáculos teatrais,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,12.02,Exibições cinematográficas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,12.13,Produção espetáculos,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,12.16,Recreação e animação,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,13.02,Administração de fundos,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,13.03,Administração consórcios,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,13.04,Administração cartões,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,13.05,Arrendamento mercantil,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.01,Consultoria,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.03,Atuária,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.04,Contabilidade,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.05,Traduções,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.06,Avaliações,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.07,Perícias,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.09,Recrutamento,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.10,Fornecimento mão-de-obra,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,14.13,Leilão,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,15.01,Administração imóveis,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,15.02,Corretagem imóveis,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,15.08,Despachantes,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,15.09,Propriedade industrial,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,15.14,Reprografia,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,15.16,Digitação,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,16.01,Transporte municipal,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,17.01,Consultoria jurídica,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,17.02,Atividades jurídicas,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,17.05,Arbitragem,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,17.14,Advocacia,5.0,Lei 1628/2011,2025-01-15
+1302603,Manaus,AM,17.19,Serviços cartorários,5.0,Lei 1628/2011,2025-01-15
+4106902,Curitiba,PR,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,1.02,Programação,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,1.03,Processamento de dados,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,1.04,Elaboração de programas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,1.05,Licenciamento de programas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,1.06,Assessoria TI,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,1.07,Suporte técnico TI,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,1.08,Planejamento TI,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,1.09,Configuração hardware/software,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,2.01,Serviços de pesquisas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,4.01,Medicina e biomedicina,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,4.02,Análises clínicas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,4.03,Hospitais,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,4.06,Enfermagem,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,4.11,Odontologia,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,4.14,Psicanálise,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,4.15,Psicologia,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,4.23,Planos de saúde,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,5.01,Medicina veterinária,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,6.01,Barbearia e cabeleireiros,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,6.02,Esteticistas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,6.04,Ginástica e dança,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,6.05,Academias,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.01,Engenharia e arquitetura,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.02,Execução de projetos engenharia,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.03,Elaboração de plantas,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.04,Demolição,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.05,Reparação de edifícios,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.10,Limpeza e manutenção,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.12,Paisagismo,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.16,Florestamento,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.19,Acompanhamento de obras,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,7.20,Sondagens e perfurações,2.5,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,8.01,Ensino regular,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,8.02,Instrução e treinamento,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,9.01,Hospedagem hotéis,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,9.02,Agenciamento viagens,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,9.03,Guias de turismo,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,10.01,Agenciamento publicidade,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,10.02,Propaganda,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,10.04,Marketing,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,10.09,Planejamento de campanhas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,10.10,Produção publicitária,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,11.01,Organização de festas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,11.02,Bufê,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,11.03,Fornecimento de música,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,11.04,Parques diversão,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,12.01,Espetáculos teatrais,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,12.02,Exibições cinematográficas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,12.13,Produção espetáculos,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,12.16,Recreação e animação,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,13.02,Administração de fundos,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,13.03,Administração consórcios,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,13.04,Administração cartões,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,13.05,Arrendamento mercantil,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.01,Consultoria,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.03,Atuária,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.04,Contabilidade,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.05,Traduções,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.06,Avaliações,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.07,Perícias,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.09,Recrutamento,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.10,Fornecimento mão-de-obra,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,14.13,Leilão,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,15.01,Administração imóveis,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,15.02,Corretagem imóveis,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,15.08,Despachantes,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,15.09,Propriedade industrial,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,15.14,Reprografia,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,15.16,Digitação,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,16.01,Transporte municipal,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,17.01,Consultoria jurídica,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,17.02,Atividades jurídicas,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,17.05,Arbitragem,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,17.14,Advocacia,5.0,Lei 14598/2014,2025-01-15
+4106902,Curitiba,PR,17.19,Serviços cartorários,5.0,Lei 14598/2014,2025-01-15
+2611606,Recife,PE,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,1.02,Programação,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,1.03,Processamento de dados,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,1.04,Elaboração de programas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,1.05,Licenciamento de programas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,1.06,Assessoria TI,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,1.07,Suporte técnico TI,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,1.08,Planejamento TI,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,1.09,Configuração hardware/software,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,2.01,Serviços de pesquisas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,4.01,Medicina e biomedicina,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,4.02,Análises clínicas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,4.03,Hospitais,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,4.06,Enfermagem,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,4.11,Odontologia,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,4.14,Psicanálise,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,4.15,Psicologia,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,4.23,Planos de saúde,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,5.01,Medicina veterinária,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,6.01,Barbearia e cabeleireiros,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,6.02,Esteticistas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,6.04,Ginástica e dança,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,6.05,Academias,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.01,Engenharia e arquitetura,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.02,Execução de projetos engenharia,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.03,Elaboração de plantas,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.04,Demolição,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.05,Reparação de edifícios,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.10,Limpeza e manutenção,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.12,Paisagismo,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.16,Florestamento,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.19,Acompanhamento de obras,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,7.20,Sondagens e perfurações,3.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,8.01,Ensino regular,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,8.02,Instrução e treinamento,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,9.01,Hospedagem hotéis,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,9.02,Agenciamento viagens,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,9.03,Guias de turismo,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,10.01,Agenciamento publicidade,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,10.02,Propaganda,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,10.04,Marketing,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,10.09,Planejamento de campanhas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,10.10,Produção publicitária,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,11.01,Organização de festas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,11.02,Bufê,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,11.03,Fornecimento de música,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,11.04,Parques diversão,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,12.01,Espetáculos teatrais,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,12.02,Exibições cinematográficas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,12.13,Produção espetáculos,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,12.16,Recreação e animação,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,13.02,Administração de fundos,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,13.03,Administração consórcios,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,13.04,Administração cartões,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,13.05,Arrendamento mercantil,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.01,Consultoria,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.03,Atuária,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.04,Contabilidade,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.05,Traduções,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.06,Avaliações,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.07,Perícias,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.09,Recrutamento,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.10,Fornecimento mão-de-obra,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,14.13,Leilão,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,15.01,Administração imóveis,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,15.02,Corretagem imóveis,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,15.08,Despachantes,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,15.09,Propriedade industrial,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,15.14,Reprografia,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,15.16,Digitação,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,16.01,Transporte municipal,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,17.01,Consultoria jurídica,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,17.02,Atividades jurídicas,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,17.05,Arbitragem,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,17.14,Advocacia,5.0,Lei 15563/1991,2025-01-15
+2611606,Recife,PE,17.19,Serviços cartorários,5.0,Lei 15563/1991,2025-01-15
+4314902,Porto Alegre,RS,1.01,Análise e desenvolvimento de sistemas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,1.02,Programação,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,1.03,Processamento de dados,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,1.04,Elaboração de programas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,1.05,Licenciamento de programas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,1.06,Assessoria TI,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,1.07,Suporte técnico TI,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,1.08,Planejamento TI,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,1.09,Configuração hardware/software,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,2.01,Serviços de pesquisas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,4.01,Medicina e biomedicina,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,4.02,Análises clínicas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,4.03,Hospitais,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,4.06,Enfermagem,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,4.11,Odontologia,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,4.14,Psicanálise,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,4.15,Psicologia,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,4.23,Planos de saúde,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,5.01,Medicina veterinária,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,6.01,Barbearia e cabeleireiros,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,6.02,Esteticistas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,6.04,Ginástica e dança,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,6.05,Academias,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.01,Engenharia e arquitetura,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.02,Execução de projetos engenharia,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.03,Elaboração de plantas,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.04,Demolição,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.05,Reparação de edifícios,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.10,Limpeza e manutenção,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.12,Paisagismo,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.16,Florestamento,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.19,Acompanhamento de obras,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,7.20,Sondagens e perfurações,2.5,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,8.01,Ensino regular,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,8.02,Instrução e treinamento,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,9.01,Hospedagem hotéis,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,9.02,Agenciamento viagens,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,9.03,Guias de turismo,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,10.01,Agenciamento publicidade,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,10.02,Propaganda,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,10.04,Marketing,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,10.09,Planejamento de campanhas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,10.10,Produção publicitária,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,11.01,Organização de festas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,11.02,Bufê,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,11.03,Fornecimento de música,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,11.04,Parques diversão,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,12.01,Espetáculos teatrais,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,12.02,Exibições cinematográficas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,12.13,Produção espetáculos,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,12.16,Recreação e animação,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,13.02,Administração de fundos,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,13.03,Administração consórcios,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,13.04,Administração cartões,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,13.05,Arrendamento mercantil,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.01,Consultoria,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.03,Atuária,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.04,Contabilidade,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.05,Traduções,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.06,Avaliações,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.07,Perícias,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.09,Recrutamento,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.10,Fornecimento mão-de-obra,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,14.13,Leilão,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,15.01,Administração imóveis,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,15.02,Corretagem imóveis,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,15.08,Despachantes,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,15.09,Propriedade industrial,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,15.14,Reprografia,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,15.16,Digitação,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,16.01,Transporte municipal,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,17.01,Consultoria jurídica,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,17.02,Atividades jurídicas,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,17.05,Arbitragem,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,17.14,Advocacia,5.0,LC 7/1973,2025-01-15
+4314902,Porto Alegre,RS,17.19,Serviços cartorários,5.0,LC 7/1973,2025-01-15
+1501402,Belém,PA,1.01,Análise e desenvolvimento de sistemas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,1.02,Programação,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,1.03,Processamento de dados,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,1.04,Elaboração de programas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,1.05,Licenciamento de programas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,1.06,Assessoria TI,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,1.07,Suporte técnico TI,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,1.08,Planejamento TI,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,1.09,Configuração hardware/software,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,2.01,Serviços de pesquisas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,4.01,Medicina e biomedicina,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,4.02,Análises clínicas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,4.03,Hospitais,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,4.06,Enfermagem,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,4.11,Odontologia,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,4.14,Psicanálise,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,4.15,Psicologia,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,4.23,Planos de saúde,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,5.01,Medicina veterinária,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,6.01,Barbearia e cabeleireiros,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,6.02,Esteticistas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,6.04,Ginástica e dança,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,6.05,Academias,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.01,Engenharia e arquitetura,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.02,Execução de projetos engenharia,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.03,Elaboração de plantas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.04,Demolição,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.05,Reparação de edifícios,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.10,Limpeza e manutenção,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.12,Paisagismo,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.16,Florestamento,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.19,Acompanhamento de obras,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,7.20,Sondagens e perfurações,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,8.01,Ensino regular,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,8.02,Instrução e treinamento,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,9.01,Hospedagem hotéis,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,9.02,Agenciamento viagens,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,9.03,Guias de turismo,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,10.01,Agenciamento publicidade,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,10.02,Propaganda,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,10.04,Marketing,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,10.09,Planejamento de campanhas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,10.10,Produção publicitária,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,11.01,Organização de festas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,11.02,Bufê,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,11.03,Fornecimento de música,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,11.04,Parques diversão,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,12.01,Espetáculos teatrais,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,12.02,Exibições cinematográficas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,12.13,Produção espetáculos,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,12.16,Recreação e animação,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,13.02,Administração de fundos,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,13.03,Administração consórcios,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,13.04,Administração cartões,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,13.05,Arrendamento mercantil,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.01,Consultoria,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.03,Atuária,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.04,Contabilidade,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.05,Traduções,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.06,Avaliações,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.07,Perícias,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.09,Recrutamento,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.10,Fornecimento mão-de-obra,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,14.13,Leilão,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,15.01,Administração imóveis,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,15.02,Corretagem imóveis,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,15.08,Despachantes,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,15.09,Propriedade industrial,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,15.14,Reprografia,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,15.16,Digitação,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,16.01,Transporte municipal,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,17.01,Consultoria jurídica,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,17.02,Atividades jurídicas,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,17.05,Arbitragem,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,17.14,Advocacia,2.0,Lei 7056/1977,2025-01-15
+1501402,Belém,PA,17.19,Serviços cartorários,2.0,Lei 7056/1977,2025-01-15
+5208707,Goiânia,GO,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,1.02,Programação,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,1.03,Processamento de dados,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,1.04,Elaboração de programas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,1.05,Licenciamento de programas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,1.06,Assessoria TI,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,1.07,Suporte técnico TI,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,1.08,Planejamento TI,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,1.09,Configuração hardware/software,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,2.01,Serviços de pesquisas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,4.01,Medicina e biomedicina,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,4.02,Análises clínicas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,4.03,Hospitais,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,4.06,Enfermagem,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,4.11,Odontologia,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,4.14,Psicanálise,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,4.15,Psicologia,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,4.23,Planos de saúde,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,5.01,Medicina veterinária,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,6.01,Barbearia e cabeleireiros,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,6.02,Esteticistas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,6.04,Ginástica e dança,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,6.05,Academias,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.01,Engenharia e arquitetura,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.02,Execução de projetos engenharia,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.03,Elaboração de plantas,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.04,Demolição,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.05,Reparação de edifícios,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.10,Limpeza e manutenção,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.12,Paisagismo,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.16,Florestamento,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.19,Acompanhamento de obras,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,7.20,Sondagens e perfurações,2.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,8.01,Ensino regular,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,8.02,Instrução e treinamento,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,9.01,Hospedagem hotéis,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,9.02,Agenciamento viagens,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,9.03,Guias de turismo,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,10.01,Agenciamento publicidade,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,10.02,Propaganda,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,10.04,Marketing,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,10.09,Planejamento de campanhas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,10.10,Produção publicitária,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,11.01,Organização de festas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,11.02,Bufê,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,11.03,Fornecimento de música,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,11.04,Parques diversão,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,12.01,Espetáculos teatrais,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,12.02,Exibições cinematográficas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,12.13,Produção espetáculos,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,12.16,Recreação e animação,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,13.02,Administração de fundos,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,13.03,Administração consórcios,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,13.04,Administração cartões,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,13.05,Arrendamento mercantil,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.01,Consultoria,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.03,Atuária,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.04,Contabilidade,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.05,Traduções,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.06,Avaliações,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.07,Perícias,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.09,Recrutamento,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.10,Fornecimento mão-de-obra,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,14.13,Leilão,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,15.01,Administração imóveis,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,15.02,Corretagem imóveis,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,15.08,Despachantes,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,15.09,Propriedade industrial,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,15.14,Reprografia,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,15.16,Digitação,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,16.01,Transporte municipal,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,17.01,Consultoria jurídica,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,17.02,Atividades jurídicas,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,17.05,Arbitragem,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,17.14,Advocacia,5.0,Lei 8146/2003,2025-01-15
+5208707,Goiânia,GO,17.19,Serviços cartorários,5.0,Lei 8146/2003,2025-01-15
+3518800,Guarulhos,SP,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,1.02,Programação,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,1.03,Processamento de dados,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,1.04,Elaboração de programas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,1.05,Licenciamento de programas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,1.06,Assessoria TI,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,1.07,Suporte técnico TI,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,1.08,Planejamento TI,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,1.09,Configuração hardware/software,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,2.01,Serviços de pesquisas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,4.01,Medicina e biomedicina,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,4.02,Análises clínicas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,4.03,Hospitais,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,4.06,Enfermagem,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,4.11,Odontologia,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,4.14,Psicanálise,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,4.15,Psicologia,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,4.23,Planos de saúde,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,5.01,Medicina veterinária,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,6.01,Barbearia e cabeleireiros,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,6.02,Esteticistas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,6.04,Ginástica e dança,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,6.05,Academias,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.01,Engenharia e arquitetura,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.02,Execução de projetos engenharia,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.03,Elaboração de plantas,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.04,Demolição,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.05,Reparação de edifícios,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.10,Limpeza e manutenção,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.12,Paisagismo,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.16,Florestamento,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.19,Acompanhamento de obras,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,7.20,Sondagens e perfurações,2.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,8.01,Ensino regular,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,8.02,Instrução e treinamento,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,9.01,Hospedagem hotéis,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,9.02,Agenciamento viagens,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,9.03,Guias de turismo,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,10.01,Agenciamento publicidade,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,10.02,Propaganda,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,10.04,Marketing,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,10.09,Planejamento de campanhas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,10.10,Produção publicitária,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,11.01,Organização de festas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,11.02,Bufê,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,11.03,Fornecimento de música,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,11.04,Parques diversão,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,12.01,Espetáculos teatrais,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,12.02,Exibições cinematográficas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,12.13,Produção espetáculos,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,12.16,Recreação e animação,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,13.02,Administração de fundos,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,13.03,Administração consórcios,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,13.04,Administração cartões,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,13.05,Arrendamento mercantil,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.01,Consultoria,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.03,Atuária,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.04,Contabilidade,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.05,Traduções,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.06,Avaliações,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.07,Perícias,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.09,Recrutamento,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.10,Fornecimento mão-de-obra,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,14.13,Leilão,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,15.01,Administração imóveis,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,15.02,Corretagem imóveis,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,15.08,Despachantes,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,15.09,Propriedade industrial,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,15.14,Reprografia,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,15.16,Digitação,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,16.01,Transporte municipal,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,17.01,Consultoria jurídica,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,17.02,Atividades jurídicas,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,17.05,Arbitragem,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,17.14,Advocacia,5.0,Lei 6989/2011,2025-01-15
+3518800,Guarulhos,SP,17.19,Serviços cartorários,5.0,Lei 6989/2011,2025-01-15
+3509502,Campinas,SP,1.01,Análise e desenvolvimento de sistemas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,1.02,Programação,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,1.03,Processamento de dados,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,1.04,Elaboração de programas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,1.05,Licenciamento de programas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,1.06,Assessoria TI,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,1.07,Suporte técnico TI,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,1.08,Planejamento TI,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,1.09,Configuração hardware/software,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,2.01,Serviços de pesquisas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,4.01,Medicina e biomedicina,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,4.02,Análises clínicas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,4.03,Hospitais,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,4.06,Enfermagem,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,4.11,Odontologia,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,4.14,Psicanálise,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,4.15,Psicologia,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,4.23,Planos de saúde,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,5.01,Medicina veterinária,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,6.01,Barbearia e cabeleireiros,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,6.02,Esteticistas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,6.04,Ginástica e dança,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,6.05,Academias,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.01,Engenharia e arquitetura,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.02,Execução de projetos engenharia,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.03,Elaboração de plantas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.04,Demolição,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.05,Reparação de edifícios,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.10,Limpeza e manutenção,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.12,Paisagismo,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.16,Florestamento,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.19,Acompanhamento de obras,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,7.20,Sondagens e perfurações,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,8.01,Ensino regular,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,8.02,Instrução e treinamento,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,9.01,Hospedagem hotéis,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,9.02,Agenciamento viagens,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,9.03,Guias de turismo,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,10.01,Agenciamento publicidade,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,10.02,Propaganda,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,10.04,Marketing,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,10.09,Planejamento de campanhas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,10.10,Produção publicitária,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,11.01,Organização de festas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,11.02,Bufê,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,11.03,Fornecimento de música,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,11.04,Parques diversão,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,12.01,Espetáculos teatrais,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,12.02,Exibições cinematográficas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,12.13,Produção espetáculos,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,12.16,Recreação e animação,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,13.02,Administração de fundos,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,13.03,Administração consórcios,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,13.04,Administração cartões,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,13.05,Arrendamento mercantil,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.01,Consultoria,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.03,Atuária,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.04,Contabilidade,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.05,Traduções,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.06,Avaliações,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.07,Perícias,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.09,Recrutamento,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.10,Fornecimento mão-de-obra,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,14.13,Leilão,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,15.01,Administração imóveis,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,15.02,Corretagem imóveis,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,15.08,Despachantes,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,15.09,Propriedade industrial,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,15.14,Reprografia,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,15.16,Digitação,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,16.01,Transporte municipal,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,17.01,Consultoria jurídica,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,17.02,Atividades jurídicas,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,17.05,Arbitragem,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,17.14,Advocacia,2.0,LC 15/2003,2025-01-15
+3509502,Campinas,SP,17.19,Serviços cartorários,2.0,LC 15/2003,2025-01-15
+2111300,São Luís,MA,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,1.02,Programação,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,1.03,Processamento de dados,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,1.04,Elaboração de programas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,1.05,Licenciamento de programas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,1.06,Assessoria TI,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,1.07,Suporte técnico TI,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,1.08,Planejamento TI,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,1.09,Configuração hardware/software,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,2.01,Serviços de pesquisas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,4.01,Medicina e biomedicina,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,4.02,Análises clínicas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,4.03,Hospitais,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,4.06,Enfermagem,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,4.11,Odontologia,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,4.14,Psicanálise,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,4.15,Psicologia,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,4.23,Planos de saúde,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,5.01,Medicina veterinária,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,6.01,Barbearia e cabeleireiros,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,6.02,Esteticistas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,6.04,Ginástica e dança,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,6.05,Academias,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.01,Engenharia e arquitetura,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.02,Execução de projetos engenharia,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.03,Elaboração de plantas,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.04,Demolição,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.05,Reparação de edifícios,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.10,Limpeza e manutenção,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.12,Paisagismo,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.16,Florestamento,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.19,Acompanhamento de obras,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,7.20,Sondagens e perfurações,3.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,8.01,Ensino regular,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,8.02,Instrução e treinamento,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,9.01,Hospedagem hotéis,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,9.02,Agenciamento viagens,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,9.03,Guias de turismo,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,10.01,Agenciamento publicidade,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,10.02,Propaganda,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,10.04,Marketing,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,10.09,Planejamento de campanhas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,10.10,Produção publicitária,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,11.01,Organização de festas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,11.02,Bufê,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,11.03,Fornecimento de música,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,11.04,Parques diversão,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,12.01,Espetáculos teatrais,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,12.02,Exibições cinematográficas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,12.13,Produção espetáculos,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,12.16,Recreação e animação,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,13.02,Administração de fundos,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,13.03,Administração consórcios,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,13.04,Administração cartões,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,13.05,Arrendamento mercantil,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.01,Consultoria,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.03,Atuária,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.04,Contabilidade,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.05,Traduções,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.06,Avaliações,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.07,Perícias,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.09,Recrutamento,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.10,Fornecimento mão-de-obra,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,14.13,Leilão,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,15.01,Administração imóveis,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,15.02,Corretagem imóveis,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,15.08,Despachantes,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,15.09,Propriedade industrial,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,15.14,Reprografia,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,15.16,Digitação,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,16.01,Transporte municipal,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,17.01,Consultoria jurídica,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,17.02,Atividades jurídicas,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,17.05,Arbitragem,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,17.14,Advocacia,5.0,Lei 3750/1999,2025-01-15
+2111300,São Luís,MA,17.19,Serviços cartorários,5.0,Lei 3750/1999,2025-01-15
+3304904,São Gonçalo,RJ,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,1.02,Programação,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,1.03,Processamento de dados,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,1.04,Elaboração de programas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,1.05,Licenciamento de programas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,1.06,Assessoria TI,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,1.07,Suporte técnico TI,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,1.08,Planejamento TI,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,1.09,Configuração hardware/software,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,2.01,Serviços de pesquisas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,4.01,Medicina e biomedicina,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,4.02,Análises clínicas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,4.03,Hospitais,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,4.06,Enfermagem,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,4.11,Odontologia,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,4.14,Psicanálise,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,4.15,Psicologia,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,4.23,Planos de saúde,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,5.01,Medicina veterinária,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,6.01,Barbearia e cabeleireiros,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,6.02,Esteticistas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,6.04,Ginástica e dança,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,6.05,Academias,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.01,Engenharia e arquitetura,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.02,Execução de projetos engenharia,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.03,Elaboração de plantas,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.04,Demolição,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.05,Reparação de edifícios,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.10,Limpeza e manutenção,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.12,Paisagismo,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.16,Florestamento,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.19,Acompanhamento de obras,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,7.20,Sondagens e perfurações,3.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,8.01,Ensino regular,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,8.02,Instrução e treinamento,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,9.01,Hospedagem hotéis,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,9.02,Agenciamento viagens,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,9.03,Guias de turismo,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,10.01,Agenciamento publicidade,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,10.02,Propaganda,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,10.04,Marketing,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,10.09,Planejamento de campanhas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,10.10,Produção publicitária,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,11.01,Organização de festas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,11.02,Bufê,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,11.03,Fornecimento de música,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,11.04,Parques diversão,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,12.01,Espetáculos teatrais,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,12.02,Exibições cinematográficas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,12.13,Produção espetáculos,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,12.16,Recreação e animação,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,13.02,Administração de fundos,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,13.03,Administração consórcios,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,13.04,Administração cartões,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,13.05,Arrendamento mercantil,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.01,Consultoria,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.03,Atuária,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.04,Contabilidade,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.05,Traduções,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.06,Avaliações,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.07,Perícias,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.09,Recrutamento,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.10,Fornecimento mão-de-obra,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,14.13,Leilão,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,15.01,Administração imóveis,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,15.02,Corretagem imóveis,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,15.08,Despachantes,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,15.09,Propriedade industrial,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,15.14,Reprografia,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,15.16,Digitação,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,16.01,Transporte municipal,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,17.01,Consultoria jurídica,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,17.02,Atividades jurídicas,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,17.05,Arbitragem,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,17.14,Advocacia,5.0,Lei 163/2015,2025-01-15
+3304904,São Gonçalo,RJ,17.19,Serviços cartorários,5.0,Lei 163/2015,2025-01-15
+2704302,Maceió,AL,1.01,Análise e desenvolvimento de sistemas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,1.02,Programação,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,1.03,Processamento de dados,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,1.04,Elaboração de programas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,1.05,Licenciamento de programas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,1.06,Assessoria TI,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,1.07,Suporte técnico TI,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,1.08,Planejamento TI,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,1.09,Configuração hardware/software,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,2.01,Serviços de pesquisas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,4.01,Medicina e biomedicina,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,4.02,Análises clínicas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,4.03,Hospitais,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,4.06,Enfermagem,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,4.11,Odontologia,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,4.14,Psicanálise,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,4.15,Psicologia,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,4.23,Planos de saúde,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,5.01,Medicina veterinária,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,6.01,Barbearia e cabeleireiros,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,6.02,Esteticistas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,6.04,Ginástica e dança,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,6.05,Academias,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.01,Engenharia e arquitetura,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.02,Execução de projetos engenharia,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.03,Elaboração de plantas,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.04,Demolição,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.05,Reparação de edifícios,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.10,Limpeza e manutenção,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.12,Paisagismo,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.16,Florestamento,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.19,Acompanhamento de obras,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,7.20,Sondagens e perfurações,3.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,8.01,Ensino regular,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,8.02,Instrução e treinamento,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,9.01,Hospedagem hotéis,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,9.02,Agenciamento viagens,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,9.03,Guias de turismo,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,10.01,Agenciamento publicidade,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,10.02,Propaganda,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,10.04,Marketing,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,10.09,Planejamento de campanhas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,10.10,Produção publicitária,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,11.01,Organização de festas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,11.02,Bufê,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,11.03,Fornecimento de música,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,11.04,Parques diversão,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,12.01,Espetáculos teatrais,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,12.02,Exibições cinematográficas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,12.13,Produção espetáculos,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,12.16,Recreação e animação,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,13.02,Administração de fundos,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,13.03,Administração consórcios,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,13.04,Administração cartões,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,13.05,Arrendamento mercantil,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.01,Consultoria,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.03,Atuária,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.04,Contabilidade,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.05,Traduções,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.06,Avaliações,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.07,Perícias,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.09,Recrutamento,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.10,Fornecimento mão-de-obra,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,14.13,Leilão,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,15.01,Administração imóveis,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,15.02,Corretagem imóveis,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,15.08,Despachantes,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,15.09,Propriedade industrial,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,15.14,Reprografia,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,15.16,Digitação,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,16.01,Transporte municipal,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,17.01,Consultoria jurídica,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,17.02,Atividades jurídicas,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,17.05,Arbitragem,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,17.14,Advocacia,5.0,LC 40/2014,2025-01-15
+2704302,Maceió,AL,17.19,Serviços cartorários,5.0,LC 40/2014,2025-01-15
+3303500,Duque de Caxias,RJ,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,1.02,Programação,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,1.03,Processamento de dados,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,1.04,Elaboração de programas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,1.05,Licenciamento de programas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,1.06,Assessoria TI,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,1.07,Suporte técnico TI,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,1.08,Planejamento TI,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,1.09,Configuração hardware/software,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,2.01,Serviços de pesquisas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,4.01,Medicina e biomedicina,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,4.02,Análises clínicas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,4.03,Hospitais,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,4.06,Enfermagem,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,4.11,Odontologia,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,4.14,Psicanálise,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,4.15,Psicologia,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,4.23,Planos de saúde,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,5.01,Medicina veterinária,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,6.01,Barbearia e cabeleireiros,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,6.02,Esteticistas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,6.04,Ginástica e dança,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,6.05,Academias,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.01,Engenharia e arquitetura,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.02,Execução de projetos engenharia,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.03,Elaboração de plantas,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.04,Demolição,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.05,Reparação de edifícios,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.10,Limpeza e manutenção,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.12,Paisagismo,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.16,Florestamento,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.19,Acompanhamento de obras,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,7.20,Sondagens e perfurações,3.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,8.01,Ensino regular,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,8.02,Instrução e treinamento,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,9.01,Hospedagem hotéis,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,9.02,Agenciamento viagens,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,9.03,Guias de turismo,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,10.01,Agenciamento publicidade,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,10.02,Propaganda,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,10.04,Marketing,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,10.09,Planejamento de campanhas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,10.10,Produção publicitária,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,11.01,Organização de festas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,11.02,Bufê,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,11.03,Fornecimento de música,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,11.04,Parques diversão,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,12.01,Espetáculos teatrais,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,12.02,Exibições cinematográficas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,12.13,Produção espetáculos,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,12.16,Recreação e animação,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,13.02,Administração de fundos,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,13.03,Administração consórcios,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,13.04,Administração cartões,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,13.05,Arrendamento mercantil,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.01,Consultoria,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.03,Atuária,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.04,Contabilidade,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.05,Traduções,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.06,Avaliações,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.07,Perícias,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.09,Recrutamento,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.10,Fornecimento mão-de-obra,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,14.13,Leilão,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,15.01,Administração imóveis,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,15.02,Corretagem imóveis,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,15.08,Despachantes,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,15.09,Propriedade industrial,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,15.14,Reprografia,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,15.16,Digitação,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,16.01,Transporte municipal,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,17.01,Consultoria jurídica,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,17.02,Atividades jurídicas,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,17.05,Arbitragem,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,17.14,Advocacia,5.0,Lei 1954/2008,2025-01-15
+3303500,Duque de Caxias,RJ,17.19,Serviços cartorários,5.0,Lei 1954/2008,2025-01-15
+2408102,Natal,RN,1.01,Análise e desenvolvimento de sistemas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,1.02,Programação,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,1.03,Processamento de dados,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,1.04,Elaboração de programas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,1.05,Licenciamento de programas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,1.06,Assessoria TI,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,1.07,Suporte técnico TI,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,1.08,Planejamento TI,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,1.09,Configuração hardware/software,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,2.01,Serviços de pesquisas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,4.01,Medicina e biomedicina,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,4.02,Análises clínicas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,4.03,Hospitais,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,4.06,Enfermagem,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,4.11,Odontologia,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,4.14,Psicanálise,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,4.15,Psicologia,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,4.23,Planos de saúde,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,5.01,Medicina veterinária,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,6.01,Barbearia e cabeleireiros,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,6.02,Esteticistas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,6.04,Ginástica e dança,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,6.05,Academias,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.01,Engenharia e arquitetura,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.02,Execução de projetos engenharia,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.03,Elaboração de plantas,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.04,Demolição,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.05,Reparação de edifícios,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.10,Limpeza e manutenção,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.12,Paisagismo,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.16,Florestamento,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.19,Acompanhamento de obras,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,7.20,Sondagens e perfurações,2.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,8.01,Ensino regular,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,8.02,Instrução e treinamento,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,9.01,Hospedagem hotéis,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,9.02,Agenciamento viagens,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,9.03,Guias de turismo,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,10.01,Agenciamento publicidade,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,10.02,Propaganda,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,10.04,Marketing,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,10.09,Planejamento de campanhas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,10.10,Produção publicitária,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,11.01,Organização de festas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,11.02,Bufê,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,11.03,Fornecimento de música,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,11.04,Parques diversão,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,12.01,Espetáculos teatrais,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,12.02,Exibições cinematográficas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,12.13,Produção espetáculos,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,12.16,Recreação e animação,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,13.02,Administração de fundos,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,13.03,Administração consórcios,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,13.04,Administração cartões,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,13.05,Arrendamento mercantil,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.01,Consultoria,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.03,Atuária,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.04,Contabilidade,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.05,Traduções,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.06,Avaliações,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.07,Perícias,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.09,Recrutamento,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.10,Fornecimento mão-de-obra,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,14.13,Leilão,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,15.01,Administração imóveis,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,15.02,Corretagem imóveis,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,15.08,Despachantes,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,15.09,Propriedade industrial,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,15.14,Reprografia,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,15.16,Digitação,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,16.01,Transporte municipal,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,17.01,Consultoria jurídica,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,17.02,Atividades jurídicas,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,17.05,Arbitragem,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,17.14,Advocacia,5.0,LC 46/2002,2025-01-15
+2408102,Natal,RN,17.19,Serviços cartorários,5.0,LC 46/2002,2025-01-15
+2211001,Teresina,PI,1.01,Análise e desenvolvimento de sistemas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,1.02,Programação,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,1.03,Processamento de dados,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,1.04,Elaboração de programas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,1.05,Licenciamento de programas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,1.06,Assessoria TI,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,1.07,Suporte técnico TI,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,1.08,Planejamento TI,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,1.09,Configuração hardware/software,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,2.01,Serviços de pesquisas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,4.01,Medicina e biomedicina,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,4.02,Análises clínicas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,4.03,Hospitais,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,4.06,Enfermagem,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,4.11,Odontologia,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,4.14,Psicanálise,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,4.15,Psicologia,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,4.23,Planos de saúde,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,5.01,Medicina veterinária,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,6.01,Barbearia e cabeleireiros,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,6.02,Esteticistas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,6.04,Ginástica e dança,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,6.05,Academias,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.01,Engenharia e arquitetura,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.02,Execução de projetos engenharia,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.03,Elaboração de plantas,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.04,Demolição,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.05,Reparação de edifícios,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.10,Limpeza e manutenção,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.12,Paisagismo,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.16,Florestamento,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.19,Acompanhamento de obras,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,7.20,Sondagens e perfurações,3.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,8.01,Ensino regular,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,8.02,Instrução e treinamento,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,9.01,Hospedagem hotéis,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,9.02,Agenciamento viagens,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,9.03,Guias de turismo,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,10.01,Agenciamento publicidade,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,10.02,Propaganda,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,10.04,Marketing,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,10.09,Planejamento de campanhas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,10.10,Produção publicitária,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,11.01,Organização de festas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,11.02,Bufê,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,11.03,Fornecimento de música,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,11.04,Parques diversão,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,12.01,Espetáculos teatrais,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,12.02,Exibições cinematográficas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,12.13,Produção espetáculos,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,12.16,Recreação e animação,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,13.02,Administração de fundos,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,13.03,Administração consórcios,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,13.04,Administração cartões,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,13.05,Arrendamento mercantil,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.01,Consultoria,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.03,Atuária,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.04,Contabilidade,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.05,Traduções,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.06,Avaliações,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.07,Perícias,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.09,Recrutamento,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.10,Fornecimento mão-de-obra,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,14.13,Leilão,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,15.01,Administração imóveis,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,15.02,Corretagem imóveis,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,15.08,Despachantes,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,15.09,Propriedade industrial,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,15.14,Reprografia,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,15.16,Digitação,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,16.01,Transporte municipal,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,17.01,Consultoria jurídica,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,17.02,Atividades jurídicas,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,17.05,Arbitragem,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,17.14,Advocacia,5.0,LC 3720/2007,2025-01-15
+2211001,Teresina,PI,17.19,Serviços cartorários,5.0,LC 3720/2007,2025-01-15
+5002704,Campo Grande,MS,1.01,Análise e desenvolvimento de sistemas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,1.02,Programação,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,1.03,Processamento de dados,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,1.04,Elaboração de programas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,1.05,Licenciamento de programas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,1.06,Assessoria TI,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,1.07,Suporte técnico TI,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,1.08,Planejamento TI,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,1.09,Configuração hardware/software,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,2.01,Serviços de pesquisas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,4.01,Medicina e biomedicina,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,4.02,Análises clínicas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,4.03,Hospitais,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,4.06,Enfermagem,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,4.11,Odontologia,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,4.14,Psicanálise,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,4.15,Psicologia,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,4.23,Planos de saúde,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,5.01,Medicina veterinária,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,6.01,Barbearia e cabeleireiros,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,6.02,Esteticistas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,6.04,Ginástica e dança,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,6.05,Academias,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.01,Engenharia e arquitetura,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.02,Execução de projetos engenharia,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.03,Elaboração de plantas,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.04,Demolição,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.05,Reparação de edifícios,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.10,Limpeza e manutenção,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.12,Paisagismo,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.16,Florestamento,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.19,Acompanhamento de obras,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,7.20,Sondagens e perfurações,2.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,8.01,Ensino regular,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,8.02,Instrução e treinamento,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,9.01,Hospedagem hotéis,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,9.02,Agenciamento viagens,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,9.03,Guias de turismo,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,10.01,Agenciamento publicidade,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,10.02,Propaganda,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,10.04,Marketing,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,10.09,Planejamento de campanhas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,10.10,Produção publicitária,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,11.01,Organização de festas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,11.02,Bufê,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,11.03,Fornecimento de música,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,11.04,Parques diversão,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,12.01,Espetáculos teatrais,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,12.02,Exibições cinematográficas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,12.13,Produção espetáculos,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,12.16,Recreação e animação,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,13.02,Administração de fundos,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,13.03,Administração consórcios,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,13.04,Administração cartões,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,13.05,Arrendamento mercantil,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.01,Consultoria,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.03,Atuária,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.04,Contabilidade,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.05,Traduções,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.06,Avaliações,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.07,Perícias,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.09,Recrutamento,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.10,Fornecimento mão-de-obra,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,14.13,Leilão,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,15.01,Administração imóveis,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,15.02,Corretagem imóveis,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,15.08,Despachantes,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,15.09,Propriedade industrial,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,15.14,Reprografia,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,15.16,Digitação,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,16.01,Transporte municipal,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,17.01,Consultoria jurídica,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,17.02,Atividades jurídicas,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,17.05,Arbitragem,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,17.14,Advocacia,5.0,LC 176/2011,2025-01-15
+5002704,Campo Grande,MS,17.19,Serviços cartorários,5.0,LC 176/2011,2025-01-15
+3303302,Nova Iguaçu,RJ,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,1.02,Programação,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,1.03,Processamento de dados,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,1.04,Elaboração de programas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,1.05,Licenciamento de programas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,1.06,Assessoria TI,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,1.07,Suporte técnico TI,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,1.08,Planejamento TI,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,1.09,Configuração hardware/software,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,2.01,Serviços de pesquisas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,4.01,Medicina e biomedicina,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,4.02,Análises clínicas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,4.03,Hospitais,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,4.06,Enfermagem,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,4.11,Odontologia,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,4.14,Psicanálise,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,4.15,Psicologia,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,4.23,Planos de saúde,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,5.01,Medicina veterinária,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,6.01,Barbearia e cabeleireiros,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,6.02,Esteticistas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,6.04,Ginástica e dança,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,6.05,Academias,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.01,Engenharia e arquitetura,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.02,Execução de projetos engenharia,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.03,Elaboração de plantas,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.04,Demolição,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.05,Reparação de edifícios,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.10,Limpeza e manutenção,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.12,Paisagismo,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.16,Florestamento,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.19,Acompanhamento de obras,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,7.20,Sondagens e perfurações,3.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,8.01,Ensino regular,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,8.02,Instrução e treinamento,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,9.01,Hospedagem hotéis,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,9.02,Agenciamento viagens,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,9.03,Guias de turismo,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,10.01,Agenciamento publicidade,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,10.02,Propaganda,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,10.04,Marketing,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,10.09,Planejamento de campanhas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,10.10,Produção publicitária,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,11.01,Organização de festas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,11.02,Bufê,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,11.03,Fornecimento de música,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,11.04,Parques diversão,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,12.01,Espetáculos teatrais,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,12.02,Exibições cinematográficas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,12.13,Produção espetáculos,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,12.16,Recreação e animação,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,13.02,Administração de fundos,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,13.03,Administração consórcios,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,13.04,Administração cartões,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,13.05,Arrendamento mercantil,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.01,Consultoria,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.03,Atuária,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.04,Contabilidade,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.05,Traduções,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.06,Avaliações,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.07,Perícias,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.09,Recrutamento,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.10,Fornecimento mão-de-obra,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,14.13,Leilão,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,15.01,Administração imóveis,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,15.02,Corretagem imóveis,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,15.08,Despachantes,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,15.09,Propriedade industrial,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,15.14,Reprografia,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,15.16,Digitação,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,16.01,Transporte municipal,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,17.01,Consultoria jurídica,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,17.02,Atividades jurídicas,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,17.05,Arbitragem,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,17.14,Advocacia,5.0,Lei 4168/2013,2025-01-15
+3303302,Nova Iguaçu,RJ,17.19,Serviços cartorários,5.0,Lei 4168/2013,2025-01-15
+3548708,São Bernardo,SP,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,1.02,Programação,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,1.03,Processamento de dados,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,1.04,Elaboração de programas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,1.05,Licenciamento de programas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,1.06,Assessoria TI,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,1.07,Suporte técnico TI,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,1.08,Planejamento TI,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,1.09,Configuração hardware/software,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,2.01,Serviços de pesquisas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,4.01,Medicina e biomedicina,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,4.02,Análises clínicas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,4.03,Hospitais,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,4.06,Enfermagem,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,4.11,Odontologia,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,4.14,Psicanálise,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,4.15,Psicologia,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,4.23,Planos de saúde,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,5.01,Medicina veterinária,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,6.01,Barbearia e cabeleireiros,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,6.02,Esteticistas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,6.04,Ginástica e dança,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,6.05,Academias,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.01,Engenharia e arquitetura,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.02,Execução de projetos engenharia,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.03,Elaboração de plantas,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.04,Demolição,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.05,Reparação de edifícios,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.10,Limpeza e manutenção,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.12,Paisagismo,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.16,Florestamento,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.19,Acompanhamento de obras,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,7.20,Sondagens e perfurações,2.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,8.01,Ensino regular,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,8.02,Instrução e treinamento,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,9.01,Hospedagem hotéis,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,9.02,Agenciamento viagens,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,9.03,Guias de turismo,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,10.01,Agenciamento publicidade,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,10.02,Propaganda,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,10.04,Marketing,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,10.09,Planejamento de campanhas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,10.10,Produção publicitária,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,11.01,Organização de festas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,11.02,Bufê,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,11.03,Fornecimento de música,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,11.04,Parques diversão,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,12.01,Espetáculos teatrais,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,12.02,Exibições cinematográficas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,12.13,Produção espetáculos,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,12.16,Recreação e animação,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,13.02,Administração de fundos,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,13.03,Administração consórcios,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,13.04,Administração cartões,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,13.05,Arrendamento mercantil,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.01,Consultoria,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.03,Atuária,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.04,Contabilidade,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.05,Traduções,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.06,Avaliações,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.07,Perícias,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.09,Recrutamento,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.10,Fornecimento mão-de-obra,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,14.13,Leilão,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,15.01,Administração imóveis,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,15.02,Corretagem imóveis,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,15.08,Despachantes,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,15.09,Propriedade industrial,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,15.14,Reprografia,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,15.16,Digitação,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,16.01,Transporte municipal,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,17.01,Consultoria jurídica,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,17.02,Atividades jurídicas,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,17.05,Arbitragem,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,17.14,Advocacia,5.0,Lei 6090/2010,2025-01-15
+3548708,São Bernardo,SP,17.19,Serviços cartorários,5.0,Lei 6090/2010,2025-01-15
+2507507,João Pessoa,PB,1.01,Análise e desenvolvimento de sistemas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,1.02,Programação,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,1.03,Processamento de dados,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,1.04,Elaboração de programas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,1.05,Licenciamento de programas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,1.06,Assessoria TI,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,1.07,Suporte técnico TI,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,1.08,Planejamento TI,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,1.09,Configuração hardware/software,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,2.01,Serviços de pesquisas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,4.01,Medicina e biomedicina,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,4.02,Análises clínicas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,4.03,Hospitais,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,4.06,Enfermagem,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,4.11,Odontologia,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,4.14,Psicanálise,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,4.15,Psicologia,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,4.23,Planos de saúde,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,5.01,Medicina veterinária,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,6.01,Barbearia e cabeleireiros,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,6.02,Esteticistas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,6.04,Ginástica e dança,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,6.05,Academias,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.01,Engenharia e arquitetura,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.02,Execução de projetos engenharia,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.03,Elaboração de plantas,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.04,Demolição,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.05,Reparação de edifícios,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.10,Limpeza e manutenção,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.12,Paisagismo,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.16,Florestamento,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.19,Acompanhamento de obras,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,7.20,Sondagens e perfurações,2.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,8.01,Ensino regular,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,8.02,Instrução e treinamento,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,9.01,Hospedagem hotéis,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,9.02,Agenciamento viagens,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,9.03,Guias de turismo,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,10.01,Agenciamento publicidade,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,10.02,Propaganda,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,10.04,Marketing,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,10.09,Planejamento de campanhas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,10.10,Produção publicitária,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,11.01,Organização de festas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,11.02,Bufê,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,11.03,Fornecimento de música,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,11.04,Parques diversão,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,12.01,Espetáculos teatrais,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,12.02,Exibições cinematográficas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,12.13,Produção espetáculos,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,12.16,Recreação e animação,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,13.02,Administração de fundos,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,13.03,Administração consórcios,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,13.04,Administração cartões,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,13.05,Arrendamento mercantil,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.01,Consultoria,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.03,Atuária,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.04,Contabilidade,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.05,Traduções,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.06,Avaliações,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.07,Perícias,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.09,Recrutamento,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.10,Fornecimento mão-de-obra,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,14.13,Leilão,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,15.01,Administração imóveis,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,15.02,Corretagem imóveis,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,15.08,Despachantes,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,15.09,Propriedade industrial,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,15.14,Reprografia,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,15.16,Digitação,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,16.01,Transporte municipal,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,17.01,Consultoria jurídica,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,17.02,Atividades jurídicas,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,17.05,Arbitragem,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,17.14,Advocacia,5.0,LC 53/2008,2025-01-15
+2507507,João Pessoa,PB,17.19,Serviços cartorários,5.0,LC 53/2008,2025-01-15
+3547809,Santo André,SP,1.01,Análise e desenvolvimento de sistemas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,1.02,Programação,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,1.03,Processamento de dados,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,1.04,Elaboração de programas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,1.05,Licenciamento de programas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,1.06,Assessoria TI,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,1.07,Suporte técnico TI,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,1.08,Planejamento TI,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,1.09,Configuração hardware/software,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,2.01,Serviços de pesquisas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,4.01,Medicina e biomedicina,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,4.02,Análises clínicas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,4.03,Hospitais,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,4.06,Enfermagem,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,4.11,Odontologia,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,4.14,Psicanálise,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,4.15,Psicologia,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,4.23,Planos de saúde,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,5.01,Medicina veterinária,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,6.01,Barbearia e cabeleireiros,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,6.02,Esteticistas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,6.04,Ginástica e dança,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,6.05,Academias,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.01,Engenharia e arquitetura,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.02,Execução de projetos engenharia,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.03,Elaboração de plantas,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.04,Demolição,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.05,Reparação de edifícios,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.10,Limpeza e manutenção,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.12,Paisagismo,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.16,Florestamento,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.19,Acompanhamento de obras,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,7.20,Sondagens e perfurações,2.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,8.01,Ensino regular,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,8.02,Instrução e treinamento,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,9.01,Hospedagem hotéis,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,9.02,Agenciamento viagens,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,9.03,Guias de turismo,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,10.01,Agenciamento publicidade,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,10.02,Propaganda,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,10.04,Marketing,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,10.09,Planejamento de campanhas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,10.10,Produção publicitária,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,11.01,Organização de festas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,11.02,Bufê,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,11.03,Fornecimento de música,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,11.04,Parques diversão,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,12.01,Espetáculos teatrais,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,12.02,Exibições cinematográficas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,12.13,Produção espetáculos,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,12.16,Recreação e animação,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,13.02,Administração de fundos,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,13.03,Administração consórcios,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,13.04,Administração cartões,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,13.05,Arrendamento mercantil,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.01,Consultoria,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.03,Atuária,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.04,Contabilidade,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.05,Traduções,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.06,Avaliações,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.07,Perícias,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.09,Recrutamento,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.10,Fornecimento mão-de-obra,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,14.13,Leilão,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,15.01,Administração imóveis,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,15.02,Corretagem imóveis,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,15.08,Despachantes,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,15.09,Propriedade industrial,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,15.14,Reprografia,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,15.16,Digitação,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,16.01,Transporte municipal,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,17.01,Consultoria jurídica,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,17.02,Atividades jurídicas,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,17.05,Arbitragem,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,17.14,Advocacia,5.0,Lei 8464/2003,2025-01-15
+3547809,Santo André,SP,17.19,Serviços cartorários,5.0,Lei 8464/2003,2025-01-15
+3534401,Osasco,SP,1.01,Análise e desenvolvimento de sistemas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,1.02,Programação,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,1.03,Processamento de dados,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,1.04,Elaboração de programas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,1.05,Licenciamento de programas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,1.06,Assessoria TI,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,1.07,Suporte técnico TI,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,1.08,Planejamento TI,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,1.09,Configuração hardware/software,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,2.01,Serviços de pesquisas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,4.01,Medicina e biomedicina,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,4.02,Análises clínicas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,4.03,Hospitais,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,4.06,Enfermagem,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,4.11,Odontologia,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,4.14,Psicanálise,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,4.15,Psicologia,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,4.23,Planos de saúde,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,5.01,Medicina veterinária,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,6.01,Barbearia e cabeleireiros,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,6.02,Esteticistas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,6.04,Ginástica e dança,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,6.05,Academias,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.01,Engenharia e arquitetura,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.02,Execução de projetos engenharia,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.03,Elaboração de plantas,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.04,Demolição,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.05,Reparação de edifícios,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.10,Limpeza e manutenção,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.12,Paisagismo,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.16,Florestamento,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.19,Acompanhamento de obras,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,7.20,Sondagens e perfurações,2.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,8.01,Ensino regular,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,8.02,Instrução e treinamento,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,9.01,Hospedagem hotéis,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,9.02,Agenciamento viagens,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,9.03,Guias de turismo,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,10.01,Agenciamento publicidade,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,10.02,Propaganda,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,10.04,Marketing,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,10.09,Planejamento de campanhas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,10.10,Produção publicitária,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,11.01,Organização de festas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,11.02,Bufê,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,11.03,Fornecimento de música,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,11.04,Parques diversão,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,12.01,Espetáculos teatrais,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,12.02,Exibições cinematográficas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,12.13,Produção espetáculos,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,12.16,Recreação e animação,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,13.02,Administração de fundos,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,13.03,Administração consórcios,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,13.04,Administração cartões,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,13.05,Arrendamento mercantil,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.01,Consultoria,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.03,Atuária,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.04,Contabilidade,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.05,Traduções,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.06,Avaliações,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.07,Perícias,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.09,Recrutamento,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.10,Fornecimento mão-de-obra,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,14.13,Leilão,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,15.01,Administração imóveis,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,15.02,Corretagem imóveis,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,15.08,Despachantes,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,15.09,Propriedade industrial,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,15.14,Reprografia,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,15.16,Digitação,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,16.01,Transporte municipal,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,17.01,Consultoria jurídica,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,17.02,Atividades jurídicas,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,17.05,Arbitragem,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,17.14,Advocacia,5.0,LC 156/2003,2025-01-15
+3534401,Osasco,SP,17.19,Serviços cartorários,5.0,LC 156/2003,2025-01-15

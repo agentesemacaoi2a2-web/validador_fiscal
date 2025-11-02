@@ -1,0 +1,2 @@
+{"ts": "2025-10-28T19:12:15.157742", "agente": "Leitor", "status": "start", "detail": "Descobrindo fonte"}
+{"ts": "2025-10-28T19:12:15.159741", "agente": "Supervisor", "status": "error", "detail": "Falha geral no run_core"}

@@ -1,0 +1,51 @@
+ncm,uf,mva,cest,descricao,observacao
+84713012,SP,41.5,2100200,Computadores portáteis,ST Eletrônicos
+84713019,SP,41.5,2100200,Outros computadores,ST Eletrônicos
+84714110,SP,41.5,2100300,Processadores,ST Eletrônicos
+84733090,SP,41.5,2100400,Partes de máquinas,ST Eletrônicos
+85171231,SP,30.0,2101100,Telefones celulares,ST Telecom
+85171290,SP,30.0,2101100,Outros telefones celulares,ST Telecom
+85176255,SP,30.0,2101200,Modems e roteadores,ST Telecom
+85287191,SP,45.0,2102100,Aparelhos receptores TV,ST Eletrodomésticos
+85287290,SP,45.0,2102200,Monitores e projetores,ST Eletrônicos
+84716051,SP,41.5,2100500,Teclados,ST Periféricos
+84716052,SP,41.5,2100600,Mouse e trackball,ST Periféricos
+84717011,SP,41.5,2100700,Unidades SSD,ST Armazenamento
+84717019,SP,41.5,2100700,Unidades de disco,ST Armazenamento
+85176230,SP,30.0,2101300,Câmeras digitais,ST Eletrônicos
+84713012,RJ,39.0,2100200,Computadores portáteis,ST Eletrônicos RJ
+84713019,RJ,39.0,2100200,Outros computadores,ST Eletrônicos RJ
+85171231,RJ,28.0,2101100,Telefones celulares,ST Telecom RJ
+85287191,RJ,43.0,2102100,Aparelhos receptores TV,ST Eletrodomésticos RJ
+84713012,MG,40.0,2100200,Computadores portáteis,ST Eletrônicos MG
+84713019,MG,40.0,2100200,Outros computadores,ST Eletrônicos MG
+85171231,MG,29.0,2101100,Telefones celulares,ST Telecom MG
+84713012,PR,38.0,2100200,Computadores portáteis,ST Eletrônicos PR
+85171231,PR,27.0,2101100,Telefones celulares,ST Telecom PR
+84713012,RS,37.0,2100200,Computadores portáteis,ST Eletrônicos RS
+85171231,RS,26.0,2101100,Telefones celulares,ST Telecom RS
+84713012,BA,36.0,2100200,Computadores portáteis,ST Eletrônicos BA
+85171231,BA,25.0,2101100,Telefones celulares,ST Telecom BA
+84713012,PE,35.0,2100200,Computadores portáteis,ST Eletrônicos PE
+85171231,PE,24.0,2101100,Telefones celulares,ST Telecom PE
+84713012,CE,34.0,2100200,Computadores portáteis,ST Eletrônicos CE
+85171231,CE,23.0,2101100,Telefones celulares,ST Telecom CE
+22021000,SP,35.0,3000100,Refrigerantes,ST Bebidas
+22030000,SP,45.0,3000200,Cervejas,ST Bebidas
+22041000,SP,45.0,3000300,Vinhos,ST Bebidas
+22042100,SP,50.0,3000400,Destilados,ST Bebidas
+24012000,SP,60.0,4000100,Cigarros,ST Fumo
+27101932,SP,25.0,5000100,Gasolina automotiva,ST Combustíveis
+27101941,SP,25.0,5000200,Óleo diesel,ST Combustíveis
+27101951,SP,25.0,5000300,Querosene de aviação,ST Combustíveis
+27132000,SP,30.0,5000400,Betume de petróleo,ST Combustíveis
+30049099,SP,55.0,6000100,Medicamentos,ST Farmacêuticos
+30051010,SP,40.0,6000200,Curativos,ST Farmacêuticos
+30061010,SP,55.0,6000300,Preservativos,ST Farmacêuticos
+33061000,SP,50.0,7000100,Dentifrícios,ST Higiene
+33072000,SP,45.0,7000200,Desodorantes,ST Higiene
+33074100,SP,50.0,7000300,Perfumes,ST Cosméticos
+33079000,SP,45.0,7000400,Produtos de beleza,ST Cosméticos
+64011000,SP,40.0,8000100,Calçados impermeáveis,ST Vestuário
+64029100,SP,35.0,8000200,Calçados cobrindo tornozelo,ST Vestuário
+64039100,SP,35.0,8000300,Calçados sola borracha,ST Vestuário

@@ -1,0 +1,10 @@
+{
+  "_": {
+    "status": "FALLBACK",
+    "aliquota": 0.05,
+    "fonte": "lc116_fallback",
+    "municipio": "Desconhecido",
+    "uf": "XX",
+    "observacao": "Alíquota máxima LC 116/2003 - não encontrado em base de dados"
+  }
+}
