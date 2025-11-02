@@ -1,8 +1,12 @@
 import sys
 import os
+import traceback
 
-# Adicionar validador_fiscal ao path
-sys.path.insert(0, os.path.dirname(__file__))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'validador_fiscal'))
 
-# Importar e rodar
-from validador_fiscal.app.app_completa_melhorada import *
+try:
+    from app.app_completa_melhorada import *
+except Exception as e:
+    import streamlit as st
+    st.error(f"❌ ERRO: {str(e)}")
+    st.write(traceback.format_exc())
