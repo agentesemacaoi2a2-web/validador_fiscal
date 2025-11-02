@@ -255,10 +255,10 @@ MAX_WORKERS=4
 ### Passo 4: Execute
 
 ```bash
-streamlit run app_melhorada.py
+streamlit run app/app_completa_melhorada.py
 ```
 
-Acesse: **http://localhost:8501**
+Acesse: **http://34.30.246.34:8501/**
 
 ---
 
