@@ -1,3 +1,16 @@
+import streamlit as st
+import traceback
+
+st.write("✅ App iniciando...")
+
+try:
+    st.write("✅ Importando módulos...")
+    # AQUI VEM O REST DO SEU CÓDIGO
+    st.write("✅ Tudo carregado!")
+except Exception as e:
+    st.error(f"❌ ERRO: {str(e)}")
+    st.write(traceback.format_exc())
+    
 # validador_fiscal/app/app_completa_melhorada.py
 """	
 ╔══════════════════════════════════════════════════════════════════════════════╗
