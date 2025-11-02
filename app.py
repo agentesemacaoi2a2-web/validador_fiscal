@@ -1,12 +1,11 @@
-import subprocess
-import sys
-import os
+import streamlit as st
+st.set_page_config(page_title="Validador Fiscal", layout="wide")
 
-# Ir para o diretório do projeto
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+st.title("🎉 Validador Fiscal NFS - Online!")
+st.write("App funcionando!")
 
-# Rodar streamlit
-subprocess.run([
-    sys.executable, "-m", "streamlit", "run", 
-    "validador_fiscal/app/app_completa_melhorada.py"
-])
+# Depois adiciona imports aos poucos
+try:
+    from validador_fiscal.app.app_completa_melhorada import *
+except Exception as e:
+    st.error(f"Erro: {str(e)}")
