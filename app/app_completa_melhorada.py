@@ -558,7 +558,8 @@ def _exibir_resumo_executivo(relatorio: dict):
                 showlegend=True,
                 legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                 yaxis_title="Valor (R$)",
-                xaxis_title="Impostos"
+                xaxis_title="Impostos",
+                yaxis_type='log'
             )
             
             st.plotly_chart(fig_barras, use_container_width=True)

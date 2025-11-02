@@ -111,6 +111,37 @@ def _parse_csv_any(nf_csv_file: str) -> NotaFiscal:
     nf.destinatario_cnpj = str(df_head.get(col("CNPJ DESTINATÁRIO","CNPJ DESTINATARIO"), [None])[0]).strip() if col("CNPJ DESTINATÁRIO","CNPJ DESTINATARIO") else None
     nf.emissor_uf = str(df_head.get(col("UF EMITENTE"), [None])[0]).strip() if col("UF EMITENTE") else None
     nf.destinatario_uf = str(df_head.get(col("UF DESTINATÁRIO","UF DESTINATARIO"), [None])[0]).strip() if col("UF DESTINATÁRIO","UF DESTINATARIO") else None
+    
+    # 🔍 VALIDAÇÃO FISCAL - CABEÇALHO
+    print(f"🔍 Validando cabeçalho fiscal...")
+    validacoes = []
+    
+    # 1. Chave de acesso (44 dígitos)
+    if nf.chave and len(str(nf.chave).strip()) == 44 and str(nf.chave).strip().isdigit():
+        validacoes.append("✅ Chave de acesso válida (44 dígitos)")
+    elif nf.chave:
+        validacoes.append(f"⚠️ Chave com {len(str(nf.chave).strip())} dígitos (esperado 44)")
+    
+    # 2. UF origem vs destino (detectar DIFAL)
+    if nf.emissor_uf and nf.destinatario_uf:
+        if str(nf.emissor_uf).strip() != str(nf.destinatario_uf).strip():
+            validacoes.append(f"📍 DIFAL DETECTADO: {nf.emissor_uf} → {nf.destinatario_uf} (operação interestadual)")
+        else:
+            validacoes.append(f"📍 Operação intraestadual ({nf.emissor_uf})")
+    
+    # 3. Impostos declarados > 0
+    decl_icms = _try_float(df_head.get(col("ICMS"), [0])[0]) if col("ICMS") else 0
+    decl_pis = _try_float(df_head.get(col("PIS"), [0])[0]) if col("PIS") else 0
+    decl_cofins = _try_float(df_head.get(col("COFINS"), [0])[0]) if col("COFINS") else 0
+    
+    total_impostos = decl_icms + decl_pis + decl_cofins
+    if total_impostos > 0:
+        validacoes.append(f"💰 Impostos declarados: R$ {total_impostos:,.2f}")
+    else:
+        validacoes.append(f"⚠️ Nenhum imposto declarado (verifique dados)")
+    
+    for v in validacoes:
+        print(f"   {v}")
 
     # Buscar arquivo de itens
     base = os.path.dirname(nf_csv_file)
@@ -155,27 +186,57 @@ def _parse_csv_any(nf_csv_file: str) -> NotaFiscal:
             print(f"✅ {len(itens_df):,} itens carregados")
 
     def build_items(d):
-        """Constrói lista de itens - OTIMIZADO"""
+        """Constrói lista de itens - OTIMIZADO (sem iterrows!) + VALIDAÇÃO FISCAL"""
         c = {c.strip().upper(): c for c in d.columns}
         def C(*names):
             for n in names:
                 if n in c: return c[n]
             return None
         
-        items = []
         total = len(d)
-        
         print(f"🔨 Construindo {total:,} objetos Item...")
         
-        for idx, (_, r) in enumerate(d.iterrows(), 1):
+        # 🔍 VALIDAÇÃO FISCAL - Detectar padrões
+        regime_col = C("REGIME", "DESCRIÇÃO REGIME", "CONS", "DESTINO")
+        ist_col = C("INSCRIÇÃO ESTADUAL", "IST", "IE")
+        
+        itens_nao_contrib = 0
+        itens_com_ist_sci = 0
+        itens_valor_zero = 0
+        itens_validos = 0
+        
+        # ⚡ VETORIZADO: Usar .values para evitar iterrows()
+        items = []
+        for idx, row_vals in enumerate(d.values, 1):
+            row = dict(zip(d.columns, row_vals))
+            
+            valor_total = _try_float(row.get(C("VALOR TOTAL","VPROD"), 0))
+            
+            # Validação 1: Valor > 0
+            if valor_total == 0:
+                itens_valor_zero += 1
+                continue
+            
+            # Validação 2: Detectar regime não contribuinte
+            regime = str(row.get(regime_col, "")).upper() if regime_col else ""
+            if "NÃO CON" in regime or "NÃOCON" in regime:
+                itens_nao_contrib += 1
+            
+            # Validação 3: IST em notação científica
+            ist = str(row.get(ist_col, "")) if ist_col else ""
+            if "E+" in ist or "E-" in ist:
+                itens_com_ist_sci += 1
+            
+            itens_validos += 1
+            
             items.append(Item(
-                codigo=str(r.get(C("NÚMERO PRODUTO","NUMERO PRODUTO","CODIGO","CÓDIGO","COD"), "")),
-                descricao=str(r.get(C("DESCRIÇÃO DO PRODUTO/SERVIÇO","DESCRICAO","DESCRICAO PRODUTO"), ""))[:200],
-                ncm=str(r.get(C("CÓDIGO NCM/SH","CODIGO NCM/SH","NCM","NCM/SH (TIPO DE PRODUTO)"), "")),
-                cfop=str(r.get(C("CFOP"), "")),
-                quantidade=_try_float(r.get(C("QUANTIDADE","QTD","QCOM","QUANTID"), 0)),
-                valor_unitario=_try_float(r.get(C("VALOR UNITÁRIO","VALOR UN","VUNCOM","VALOR_UNITARIO","VALOR UN "), 0)),
-                valor_total=_try_float(r.get(C("VALOR TOTAL","VALOR TO","VALOR TOTL","VPROD","VALOR_TOTAL","VALOR TO"), 0)),
+                codigo=str(row.get(C("NÚMERO PRODUTO","CODIGO","CÓDIGO","COD"), "")),
+                descricao=str(row.get(C("DESCRIÇÃO DO PRODUTO/SERVIÇO","DESCRICAO"), ""))[:200],
+                ncm=str(row.get(C("CÓDIGO NCM/SH","NCM","NCM/SH (TIPO DE PRODUTO)"), "")),
+                cfop=str(row.get(C("CFOP"), "")),
+                quantidade=_try_float(row.get(C("QUANTIDADE","QTD","QCOM"), 0)),
+                valor_unitario=_try_float(row.get(C("VALOR UNITÁRIO","VUNCOM"), 0)),
+                valor_total=valor_total,
             ))
             
             # Mostrar progresso a cada 10%
@@ -183,12 +244,16 @@ def _parse_csv_any(nf_csv_file: str) -> NotaFiscal:
                 pct = (idx / total * 100)
                 print(f"   Progresso: {idx:,}/{total:,} ({pct:.0f}%)")
         
+        # 📊 SUMÁRIO DE VALIDAÇÕES
+        print(f"\n📊 VALIDAÇÃO FISCAL DOS ITENS:")
+        print(f"   ✅ Itens com valor > 0: {itens_validos:,}")
+        print(f"   ⏭️  Itens com valor = 0 (ignorados): {itens_valor_zero:,}")
+        if itens_nao_contrib > 0:
+            print(f"   ⚠️  Itens NÃO CONTRIBUINTE: {itens_nao_contrib:,} (ICMS = 0)")
+        if itens_com_ist_sci > 0:
+            print(f"   ⚠️  Itens com IST em notação científica: {itens_com_ist_sci:,}")
         print(f"✅ {len(items):,} itens construídos")
-        # DEBUG
-        if items:
-            print(f"\n🔍 DEBUG - Primeiros 3 itens:")
-            for idx, item in enumerate(items[:3], 1):
-                print(f"   Item {idx}: valor_total={item.valor_total}, quantidade={item.quantidade}, ncm={item.ncm}, cfop={item.cfop}")
+        
         return items
 
     if itens_df is not None:
@@ -198,35 +263,17 @@ def _parse_csv_any(nf_csv_file: str) -> NotaFiscal:
         if {"NÚMERO PRODUTO","DESCRIÇÃO DO PRODUTO/SERVIÇO"}.issubset(set(cols)):
             nf.itens = build_items(df_head)
 
-    # Ler impostos declarados - SOMAR de TODAS as linhas
+    # Ler impostos declarados
     d = Declarados()
-    
-    # Se tem itens_df (arquivo de itens separado), usa ele
-    df_para_somar = itens_df if itens_df is not None else df_head
-    
     for label, attr in [
         ("ICMS","icms"), ("ST","st"), ("DIFAL","difal"), ("IPI","ipi"),
         ("PIS","pis"), ("COFINS","cofins"), ("ISS","iss"),
         ("IRPJ","irpj"), ("CSLL","csll"),
         ("CBS","cbs"), ("IBS","ibs"), ("IS","is_")
     ]:
-        # Procurar coluna com padrões: "ICMS", "VALOR ICMS", "VALOR_ICMS", etc
-        col_patterns = [label, f"VALOR {label}", f"VALOR_{label}", f"V{label}"]
-        c = None
-        for pattern in col_patterns:
-            c = col(pattern)
-            if c:
-                break
-        
-        if c and c in df_para_somar.columns:
-            # SOMAR todos os valores da coluna
-            try:
-                total = df_para_somar[c].apply(_try_float).sum()
-                setattr(d, attr, total)
-            except Exception as e:
-                print(f"   ⚠️ Erro ao somar {label}: {e}")
-                setattr(d, attr, 0.0)
-    
+        c = col(label)
+        if c:
+            setattr(d, attr, _try_float(df_head[c].iloc[0]))
     nf.declarados = d
     
     print(f"✅ NotaFiscal construída: {len(nf.itens):,} itens")
@@ -585,7 +632,6 @@ def parse_any(nf_csv_file=None, xml_file=None, pdf_file=None, image_file=None):
             else:
                 cab = f
 
-        # CAB + ITENS → monta NF e substitui itens
         if cab and itm:
             nf = _parse_csv_any(cab)
 
@@ -599,7 +645,7 @@ def parse_any(nf_csv_file=None, xml_file=None, pdf_file=None, image_file=None):
                 return None
 
             itens = []
-            for _, r in df_itm.iterrows():
+            for _, r in df_itm.iterrows():  # ← USA df_itm DIRETO (sem filtro extra)
                 itens.append(Item(
                     codigo=str(r.get(C("NÚMERO PRODUTO","CODIGO","CÓDIGO","COD"), "")),
                     descricao=str(r.get(C("DESCRIÇÃO DO PRODUTO/SERVIÇO","DESCRICAO"), "")),

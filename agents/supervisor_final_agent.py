@@ -13,10 +13,6 @@ import os
 
 def run(nf, taxes: Dict[str, Any], resultado: Dict[str, Any], divergencias: List[Dict[str, Any]]) -> Dict[str, Any]:
     """
-
-    # Detectar se é NF única (XML/PDF/IMG sem CSV)  ← LINHA NOVA
-    fonte_unica = hasattr(nf, 'chave_acesso') and nf.chave_acesso and len(getattr(nf, 'itens', [])) <= 1
-    
     Gera relatório OTIMIZADO com Excel
     
     Args:
@@ -94,6 +90,11 @@ def run(nf, taxes: Dict[str, Any], resultado: Dict[str, Any], divergencias: List
                 "diferenca": round(calc - decl, 2),
                 "diferenca_pct": round(((calc - decl) / decl * 100) if decl > 0 else 0, 2)
             }
+
+    # Detectar se é fonte única (XML/PDF/IMG): <= 5 itens OU tem chave
+    fonte_unica = (hasattr(nf, 'chave') and getattr(nf, 'chave', None) and 
+                   len(getattr(nf, 'itens', [])) <= 5)
+    campos_nf = _extrair_campos_nf(nf, totais_por_imposto) if fonte_unica else None
     
     # 6. DETALHAMENTO ITENS (LIMITADO para não travar)
     itens_detalhados = []  # Pula detalhamento (ganha 5 min!)

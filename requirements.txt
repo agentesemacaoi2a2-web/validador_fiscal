@@ -1,21 +1,45 @@
+# Core Framework
 streamlit==1.39.0
+python-dotenv==1.0.1
+pydantic==2.8.2
+
+# Agentes & IA
+crewai==0.30.11
+langchain>=0.1.0
+anthropic>=0.7.0
+openai>=1.3.0
+
+# Processamento de Dados
+pandas==2.2.2
+numpy>=1.24.0
 sqlalchemy==2.0.32
+
+# Processamento de Documentos
+lxml==5.3.0
+pdfplumber>=0.9.0
+python-docx>=0.8.11
+openpyxl>=3.1.0
 pytesseract==0.3.10
 Pillow==10.4.0
+fpdf2==2.7.9
+
+# Visualização
+plotly==5.18.0
+matplotlib>=3.5.0
+
+# RAG & Vector DB
 chromadb==0.5.11
 sentence-transformers==2.7.0
 transformers==4.44.2
 tokenizers==0.19.1
-feedparser==6.0.11
-fpdf2==2.7.9
-crewai==0.30.11
-python-dotenv==1.0.1
-pydantic==2.8.2
+
+# Utilitários
+requests>=2.31.0
 tabulate==0.9.0
-pandas==2.2.2
-lxml==5.3.0
-pdfplumber
-requests
-plotly==5.18.0
 diskcache==5.6.3
-pip freeze
+feedparser==6.0.11
+
+# Opcional (para produção)
+gunicorn>=21.0.0
+psycopg2-binary>=2.9.0  # PostgreSQL
+redis>=5.0.0  # Cache distribuído
