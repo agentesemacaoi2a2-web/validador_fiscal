@@ -1,10 +1,30 @@
+import sys
 import streamlit as st
-import traceback
 
-st.write("✅ App iniciando...")
+st.write("✅ Iniciando...")
 
 try:
-    st.write("✅ Importando módulos...")
+    st.write("✅ Carregando módulos...")
+    
+    # Adiciona debug antes de cada import
+    st.write("Importando streamlit...")
+    import os, json, time, threading
+    st.write("✅ Imports básicos OK")
+    
+    st.write("Importando pandas...")
+    import pandas as pd
+    st.write("✅ Pandas OK")
+    
+    st.write("Importando openai...")
+    from openai import OpenAI
+    st.write("✅ OpenAI OK")
+    
+    st.write("Importando pipeline...")
+    from validador_fiscal.agents.supervisor_agent import run_pipeline
+    st.write("✅ Pipeline OK")
+    
+    st.write("✅✅✅ TUDO CARREGADO! ✅✅✅")
+    
     
     
 # validador_fiscal/app/app_completa_melhorada.py
