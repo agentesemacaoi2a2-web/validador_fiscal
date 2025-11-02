@@ -10,12 +10,12 @@ Supervisor Agent OTIMIZADO para ARQUIVOS GRANDES
 from typing import Optional, Dict, Any
 import json, time, os
 
-from validador_fiscal.agents.reader_agent import run as reader_run
-from validador_fiscal.agents.normalizer_agent import run as normalizer_run
-from validador_fiscal.agents.tax_engine_agent import run as tax_engine_run
-from validador_fiscal.agents.consolidator_agent import run as consolidator_run
-from validador_fiscal.agents.divergences_agent import run as divergences_run
-from validador_fiscal.agents.supervisor_final_agent import run as supervisor_final_run
+fromagents.reader_agent import run as reader_run
+fromagents.normalizer_agent import run as normalizer_run
+fromagents.tax_engine_agent import run as tax_engine_run
+fromagents.consolidator_agent import run as consolidator_run
+fromagents.divergences_agent import run as divergences_run
+fromagents.supervisor_final_agent import run as supervisor_final_run
 
 
 def _emit_agent(agente: str, status: str, progress_path: Optional[str], pct: Optional[int] = None, extra: str = ""):

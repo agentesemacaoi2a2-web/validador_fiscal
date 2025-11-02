@@ -13,7 +13,7 @@ except Exception:
     pytesseract = None
     _HAS_TESS = False
 
-from validador_fiscal.core.models import NotaFiscal, Item, Declarados
+fromcore.models import NotaFiscal, Item, Declarados
 
 # ---------------- CSV universal (encoding + separador) ----------------
 def _read_csv_smart(path):

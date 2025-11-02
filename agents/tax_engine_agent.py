@@ -6,17 +6,17 @@ from typing import Dict, Any
 import os
 
 try:
-    from validador_fiscal.core.models import NotaFiscal as NotaFiscalPydantic
+    fromcore.models import NotaFiscal as NotaFiscalPydantic
     USE_PYDANTIC = True
 except:
     USE_PYDANTIC = False
 
-from validador_fiscal.taxes.legacy_engine import calcular_legados_item_a_item
-from validador_fiscal.taxes.matriz_loader import load_matriz
+fromtaxes.legacy_engine import calcular_legados_item_a_item
+fromtaxes.matriz_loader import load_matriz
 
 # Importar IA
 try:
-    from validador_fiscal.agents import fiscal_ai_agent
+    fromagents import fiscal_ai_agent
     HAS_AI = True
     print("✅ Agente IA importado com sucesso")
 except Exception as e:

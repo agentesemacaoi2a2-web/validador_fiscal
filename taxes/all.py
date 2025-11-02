@@ -5,9 +5,9 @@ NÃO quebra o fluxo se algo faltar: devolve estrutura canônica.
 """
 
 from typing import Dict, Any
-from validador_fiscal.taxes.matriz_loader import load_matriz
-from validador_fiscal.taxes.legacy_engine import calcular_legados
-from validador_fiscal.taxes.cbs_client import CBSCalculatorClient
+fromtaxes.matriz_loader import load_matriz
+fromtaxes.legacy_engine import calcular_legados
+fromtaxes.cbs_client import CBSCalculatorClient
 
 
 def _r2(x):

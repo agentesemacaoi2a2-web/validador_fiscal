@@ -9,7 +9,7 @@ from __future__ import annotations
 from typing import Dict, Tuple, List
 import pandas as pd
 import numpy as np
-from validador_fiscal.core.models import NotaFiscal, Calculados
+fromcore.models import NotaFiscal, Calculados
 
 MODO_DETALHADO = False
 

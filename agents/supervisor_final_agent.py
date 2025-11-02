@@ -174,7 +174,7 @@ def run(nf, taxes: Dict[str, Any], resultado: Dict[str, Any], divergencias: List
     # 9. GERAR EXCEL
     print("📊 Gerando Excel...")
     try:
-        from validador_fiscal.tools.report_generator import gerar_relatorio_excel
+        fromtools.report_generator import gerar_relatorio_excel
         excel_path = gerar_relatorio_excel(relatorio)
         relatorio["excel_path"] = excel_path
         print(f"✅ Excel: {excel_path}")

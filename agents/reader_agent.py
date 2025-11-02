@@ -1,5 +1,5 @@
 from typing import Optional
-from validador_fiscal.tools.nf_parse_tool import parse_any, NotaFiscal
+fromtools.nf_parse_tool import parse_any, NotaFiscal
 
 def run(nf_csv_file: Optional[str] = None,
         xml_file: Optional[str] = None,

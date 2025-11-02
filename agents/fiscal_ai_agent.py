@@ -1,7 +1,7 @@
 """Agente IA Fiscal - SIMPLES E FUNCIONAL"""
 import os, json
 from openai import OpenAI
-from validador_fiscal.tools.tax_api_tool import buscar_impostos_online
+fromtools.tax_api_tool import buscar_impostos_online
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY")) if os.getenv("OPENAI_API_KEY") else None
 

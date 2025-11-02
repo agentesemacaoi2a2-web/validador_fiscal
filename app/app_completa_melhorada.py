@@ -78,19 +78,19 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Core
-from validador_fiscal.agents.supervisor_agent import run_pipeline
+fromagents.supervisor_agent import run_pipeline
 
 # Memory + RAG + News
-from validador_fiscal.memory.store import (
+frommemory.store import (
     save_chat_message as file_save_msg,
     load_chat_history as file_load_hist,
 )
-from validador_fiscal.tools.rag_tool import rag_query
-from validador_fiscal.tools.news_tool import get_news
+fromtools.rag_tool import rag_query
+fromtools.news_tool import get_news
 
 # DB
-from validador_fiscal.db.base import Base, engine, SessionLocal
-from validador_fiscal.db.crud import save_nf_full, save_nf_csv_auto
+fromdb.base import Base, engine, SessionLocal
+fromdb.crud import save_nf_full, save_nf_csv_auto
 
 # Config
 st.set_page_config(
