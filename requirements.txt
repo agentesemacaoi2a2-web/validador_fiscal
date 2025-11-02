@@ -16,4 +16,5 @@ numpy
 scipy
 scikit-learn
 openai
+openpyxl
 
